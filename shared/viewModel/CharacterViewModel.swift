@@ -64,6 +64,6 @@ final class CharacterViewModel: ObservableObject {
     }
     
     func getAllCharacters() -> [Character] {
-        return characters.values.map { $0 }
+        return characters.values.map { $0 }.sorted(by: { $0.name < $1.name })
     }
 }

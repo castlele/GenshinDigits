@@ -20,12 +20,12 @@ struct SidebarButton: View {
             Image(imageName: imageName)
                 .resizable()
                 .scaledToFit()
-                .foregroundColor(.white)
+                .foregroundColor(.black)
                 .frame(width: width, height: height)
                 .padding()
                 .background(
                     Circle()
-                        .fill(Color("sidebar-button-bg"))
+                        .fill(Color.white)
                 )
         }
         .buttonStyle(PlainButtonStyle())

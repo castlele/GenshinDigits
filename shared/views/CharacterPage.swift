@@ -10,10 +10,8 @@ import SwiftUI
 struct CharacterPage: View {
     private var character: Character?
     
-    
-    
     var body: some View {
-        ScrollView {
+        ScrollView(showsIndicators: false) {
             VStack(alignment: .center) {
                 if let character = character {
                     Image(character.imageName)
