@@ -12,6 +12,16 @@ enum DecodingFatalError: String {
     case invalidURL = "Inavlid URL"
 }
 
+func checkDecodingForErrors<T: Decodable>(decoding d: @escaping () throws -> T) -> T {
+    do {
+        return try d()
+    } catch is DecodingError {
+        fatalError(DecodingFatalError.decodingError.rawValue)
+    } catch {
+        fatalError(DecodingFatalError.invalidURL.rawValue)
+    }
+}
+
 func getContentsOfFile(atPath path: URL) throws -> Data {
     return try Data(contentsOf: path)
 }

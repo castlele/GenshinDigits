@@ -10,9 +10,11 @@ import SwiftUI
 final class CharacterViewModel: ObservableObject {
     private let bundle = Bundle.main
     private(set) var characters: [String: Character] = [:]
+    private(set) var characterStats: [String: [Stat]] = [:]
     
     @Published var characterNames: [String] = []
     @Published var selectedCharacter: Character? = nil
+    @Published var currentStats: [Stat]? = nil
     
     var visionColorsOfCurrentCharacter: [Color] {
         if let selectedCharacter = selectedCharacter {
@@ -36,15 +38,34 @@ final class CharacterViewModel: ObservableObject {
         }
     }
     
+    @discardableResult
+    func loadCharacterStats(byName name: String) -> [Stat]? {
+        let fileName = "stats_\(name.lowercased().replacingOccurrences(of: " ", with: "_"))"
+        if let url = self.bundle.url(forResource: fileName, withExtension: "json") {
+            let _stats = getStats(fromURL: url)
+            characterStats[name] = _stats
+            return _stats
+        }
+        return nil
+    }
+    
+    private func loadAscensionMaterials(_ name: String) {
+        
+    }
+    
     private func getCharacters(fromURL url: URL) -> [Character] {
-        do {
+        checkDecodingForErrors {
             let jsonData = try getContentsOfFile(atPath: url)
             let characters: [Character] = try decodeData(jsonData)
             return characters
-        } catch is DecodingError {
-            fatalError(DecodingFatalError.decodingError.rawValue, file: "CharacterViewModel.swift", line: 42)
-        } catch {
-            fatalError(DecodingFatalError.invalidURL.rawValue, file: "CharacterViewModel.swift", line: 41)
+        }
+    }
+    
+    private func getStats(fromURL url: URL) -> [Stat] {
+        checkDecodingForErrors {
+            let jsonData = try getContentsOfFile(atPath: url)
+            let stats: [Stat] = try decodeData(jsonData)
+            return stats
         }
     }
     
@@ -65,5 +86,30 @@ final class CharacterViewModel: ObservableObject {
     
     func getAllCharacters() -> [Character] {
         return characters.values.map { $0 }.sorted(by: { $0.name < $1.name })
+    }
+    
+    func setCurrentStats(_ name: String? = nil) {
+        let _name = (name != nil) ? name : (selectedCharacter == nil) ? nil : selectedCharacter?.name
+        
+        if let name = _name {
+            if let _stats = characterStats[name] {
+                currentStats = _stats
+            }
+            currentStats = loadCharacterStats(byName: name)
+        }
+    }
+    
+    func getStats(forPhase phase: Int) -> (lower: Stat, upper: Stat) {
+        guard phase >= 0 && phase <= 6 else {
+            fatalError("Ascension phase should be between 0 and 6, but it is equal to \(phase)")
+        }
+        guard let stats = currentStats else {
+            fatalError("Application uses stats data while it is nil")
+        }
+        
+        let lower = stats.first { $0.ascensionPhase == "\(phase)_l" }!
+        let upper = stats.first { $0.ascensionPhase == "\(phase)_u" }!
+        
+        return (lower, upper)
     }
 }

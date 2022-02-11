@@ -48,6 +48,7 @@ struct CharactersTab: View {
                                 .padding(.horizontal)
                                 .onTapGesture {
                                     characterViewModel.selectedCharacter = character
+                                    characterViewModel.setCurrentStats()
                                 }
                         }
                     }
@@ -58,7 +59,7 @@ struct CharactersTab: View {
             
             Divider()
             
-            CharacterPage(characterViewModel.selectedCharacter)
+            CharacterPage()
                 .background(
                     LinearGradient(colors: characterViewModel.visionColorsOfCurrentCharacter,
                                    startPoint: .bottom, endPoint: .top)
@@ -72,8 +73,11 @@ struct CharactersTab: View {
 
 #if DEBUG
 struct CharactersTab_Previews: PreviewProvider {
+    @StateObject static var characterVM = CharacterViewModel()
     static var previews: some View {
         CharactersTab()
+            .environmentObject(characterVM)
+            .onAppear { characterVM.loadCharacters() }
     }
 }
 #endif
