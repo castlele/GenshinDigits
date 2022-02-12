@@ -7,192 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D923626327B65CEC00718766 /* stats_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620627B65CEB00718766 /* stats_jean.json */; };
-		D923626427B65CEC00718766 /* stats_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620627B65CEB00718766 /* stats_jean.json */; };
-		D923626527B65CEC00718766 /* materials_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620727B65CEB00718766 /* materials_kujou_sara.json */; };
-		D923626627B65CEC00718766 /* materials_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620727B65CEB00718766 /* materials_kujou_sara.json */; };
-		D923626727B65CEC00718766 /* stats_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620827B65CEB00718766 /* stats_ganyu.json */; };
-		D923626827B65CEC00718766 /* stats_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620827B65CEB00718766 /* stats_ganyu.json */; };
-		D923626927B65CEC00718766 /* stats_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620927B65CEB00718766 /* stats_sangonomiya_kokomi.json */; };
-		D923626A27B65CEC00718766 /* stats_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620927B65CEB00718766 /* stats_sangonomiya_kokomi.json */; };
-		D923626B27B65CEC00718766 /* materials_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620A27B65CEB00718766 /* materials_chongyun.json */; };
-		D923626C27B65CEC00718766 /* materials_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620A27B65CEB00718766 /* materials_chongyun.json */; };
-		D923626D27B65CEC00718766 /* stats_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620B27B65CEB00718766 /* stats_tartaglia.json */; };
-		D923626E27B65CEC00718766 /* stats_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620B27B65CEB00718766 /* stats_tartaglia.json */; };
-		D923626F27B65CEC00718766 /* stats_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620C27B65CEB00718766 /* stats_xiao.json */; };
-		D923627027B65CEC00718766 /* stats_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620C27B65CEB00718766 /* stats_xiao.json */; };
-		D923627127B65CEC00718766 /* stats_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620D27B65CEB00718766 /* stats_barbara.json */; };
-		D923627227B65CEC00718766 /* stats_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620D27B65CEB00718766 /* stats_barbara.json */; };
-		D923627327B65CEC00718766 /* stats_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620E27B65CEB00718766 /* stats_noelle.json */; };
-		D923627427B65CEC00718766 /* stats_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620E27B65CEB00718766 /* stats_noelle.json */; };
-		D923627527B65CEC00718766 /* stats_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620F27B65CEB00718766 /* stats_shenhe.json */; };
-		D923627627B65CEC00718766 /* stats_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D923620F27B65CEB00718766 /* stats_shenhe.json */; };
-		D923627727B65CEC00718766 /* stats_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621027B65CEB00718766 /* stats_sucrose.json */; };
-		D923627827B65CEC00718766 /* stats_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621027B65CEB00718766 /* stats_sucrose.json */; };
-		D923627927B65CEC00718766 /* stats_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621127B65CEB00718766 /* stats_yun_jin.json */; };
-		D923627A27B65CEC00718766 /* stats_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621127B65CEB00718766 /* stats_yun_jin.json */; };
-		D923627B27B65CEC00718766 /* stats_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621227B65CEB00718766 /* stats_razor.json */; };
-		D923627C27B65CEC00718766 /* stats_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621227B65CEB00718766 /* stats_razor.json */; };
-		D923627D27B65CEC00718766 /* bio.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621327B65CEB00718766 /* bio.json */; };
-		D923627E27B65CEC00718766 /* bio.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621327B65CEB00718766 /* bio.json */; };
-		D923627F27B65CEC00718766 /* materials_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621427B65CEB00718766 /* materials_yoimiya.json */; };
-		D923628027B65CEC00718766 /* materials_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621427B65CEB00718766 /* materials_yoimiya.json */; };
-		D923628127B65CEC00718766 /* materials_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621527B65CEB00718766 /* materials_zhongli.json */; };
-		D923628227B65CEC00718766 /* materials_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621527B65CEB00718766 /* materials_zhongli.json */; };
-		D923628327B65CEC00718766 /* materials_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621627B65CEB00718766 /* materials_diluc.json */; };
-		D923628427B65CEC00718766 /* materials_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621627B65CEB00718766 /* materials_diluc.json */; };
-		D923628527B65CEC00718766 /* materials_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621727B65CEB00718766 /* materials_traveler.json */; };
-		D923628627B65CEC00718766 /* materials_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621727B65CEB00718766 /* materials_traveler.json */; };
-		D923628727B65CEC00718766 /* materials_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621827B65CEB00718766 /* materials_xiao.json */; };
-		D923628827B65CEC00718766 /* materials_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621827B65CEB00718766 /* materials_xiao.json */; };
-		D923628927B65CEC00718766 /* materials_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621927B65CEB00718766 /* materials_barbara.json */; };
-		D923628A27B65CEC00718766 /* materials_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621927B65CEB00718766 /* materials_barbara.json */; };
-		D923628B27B65CEC00718766 /* materials_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621A27B65CEB00718766 /* materials_shenhe.json */; };
-		D923628C27B65CEC00718766 /* materials_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621A27B65CEB00718766 /* materials_shenhe.json */; };
-		D923628D27B65CEC00718766 /* materials_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621B27B65CEB00718766 /* materials_thoma.json */; };
-		D923628E27B65CEC00718766 /* materials_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621B27B65CEB00718766 /* materials_thoma.json */; };
-		D923628F27B65CEC00718766 /* materials_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621C27B65CEB00718766 /* materials_lisa.json */; };
-		D923629027B65CEC00718766 /* materials_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621C27B65CEB00718766 /* materials_lisa.json */; };
-		D923629127B65CEC00718766 /* stats_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621D27B65CEB00718766 /* stats_fischl.json */; };
-		D923629227B65CEC00718766 /* stats_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621D27B65CEB00718766 /* stats_fischl.json */; };
-		D923629327B65CEC00718766 /* stats_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621E27B65CEB00718766 /* stats_keqing.json */; };
-		D923629427B65CEC00718766 /* stats_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621E27B65CEB00718766 /* stats_keqing.json */; };
-		D923629527B65CEC00718766 /* materials_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621F27B65CEB00718766 /* materials_venti.json */; };
-		D923629627B65CEC00718766 /* materials_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D923621F27B65CEB00718766 /* materials_venti.json */; };
-		D923629727B65CEC00718766 /* materials_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622027B65CEB00718766 /* materials_yun_jin.json */; };
-		D923629827B65CEC00718766 /* materials_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622027B65CEB00718766 /* materials_yun_jin.json */; };
-		D923629927B65CEC00718766 /* materials_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622127B65CEB00718766 /* materials_rosaria.json */; };
-		D923629A27B65CEC00718766 /* materials_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622127B65CEB00718766 /* materials_rosaria.json */; };
-		D923629B27B65CEC00718766 /* stats_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622227B65CEB00718766 /* stats_hu_tao.json */; };
-		D923629C27B65CEC00718766 /* stats_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622227B65CEB00718766 /* stats_hu_tao.json */; };
-		D923629D27B65CEC00718766 /* materials_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622327B65CEB00718766 /* materials_albedo.json */; };
-		D923629E27B65CEC00718766 /* materials_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622327B65CEB00718766 /* materials_albedo.json */; };
-		D923629F27B65CEC00718766 /* materials_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622427B65CEB00718766 /* materials_fischl.json */; };
-		D92362A027B65CEC00718766 /* materials_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622427B65CEB00718766 /* materials_fischl.json */; };
-		D92362A127B65CEC00718766 /* stats_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622527B65CEB00718766 /* stats_kujou_sara.json */; };
-		D92362A227B65CEC00718766 /* stats_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622527B65CEB00718766 /* stats_kujou_sara.json */; };
-		D92362A327B65CEC00718766 /* materials_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622627B65CEB00718766 /* materials_amber.json */; };
-		D92362A427B65CEC00718766 /* materials_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622627B65CEB00718766 /* materials_amber.json */; };
-		D92362A527B65CEC00718766 /* materials_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622727B65CEB00718766 /* materials_beidou.json */; };
-		D92362A627B65CEC00718766 /* materials_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622727B65CEB00718766 /* materials_beidou.json */; };
-		D92362A727B65CEC00718766 /* stats_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622827B65CEB00718766 /* stats_ningguang.json */; };
-		D92362A827B65CEC00718766 /* stats_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622827B65CEB00718766 /* stats_ningguang.json */; };
-		D92362A927B65CEC00718766 /* stats_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622927B65CEB00718766 /* stats_qiqi.json */; };
-		D92362AA27B65CEC00718766 /* stats_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622927B65CEB00718766 /* stats_qiqi.json */; };
-		D92362AB27B65CEC00718766 /* materials_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622A27B65CEB00718766 /* materials_tartaglia.json */; };
-		D92362AC27B65CEC00718766 /* materials_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622A27B65CEB00718766 /* materials_tartaglia.json */; };
-		D92362AD27B65CEC00718766 /* stats_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622B27B65CEB00718766 /* stats_zhongli.json */; };
-		D92362AE27B65CEC00718766 /* stats_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622B27B65CEB00718766 /* stats_zhongli.json */; };
-		D92362AF27B65CEC00718766 /* stats_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622C27B65CEB00718766 /* stats_venti.json */; };
-		D92362B027B65CEC00718766 /* stats_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622C27B65CEB00718766 /* stats_venti.json */; };
-		D92362B127B65CEC00718766 /* stats_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622D27B65CEB00718766 /* stats_arataki_itto.json */; };
-		D92362B227B65CEC00718766 /* stats_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622D27B65CEB00718766 /* stats_arataki_itto.json */; };
-		D92362B327B65CEC00718766 /* stats_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622E27B65CEB00718766 /* stats_beidou.json */; };
-		D92362B427B65CEC00718766 /* stats_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622E27B65CEB00718766 /* stats_beidou.json */; };
-		D92362B527B65CEC00718766 /* materials_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622F27B65CEB00718766 /* materials_kaedehara_kazuha.json */; };
-		D92362B627B65CEC00718766 /* materials_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D923622F27B65CEB00718766 /* materials_kaedehara_kazuha.json */; };
-		D92362B727B65CEC00718766 /* stats_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623027B65CEB00718766 /* stats_mona.json */; };
-		D92362B827B65CEC00718766 /* stats_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623027B65CEB00718766 /* stats_mona.json */; };
-		D92362B927B65CEC00718766 /* materials_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623127B65CEB00718766 /* materials_gorou.json */; };
-		D92362BA27B65CEC00718766 /* materials_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623127B65CEB00718766 /* materials_gorou.json */; };
-		D92362BB27B65CEC00718766 /* stats_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623227B65CEB00718766 /* stats_eula.json */; };
-		D92362BC27B65CEC00718766 /* stats_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623227B65CEB00718766 /* stats_eula.json */; };
-		D92362BD27B65CEC00718766 /* stats_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623327B65CEB00718766 /* stats_rosaria.json */; };
-		D92362BE27B65CEC00718766 /* stats_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623327B65CEB00718766 /* stats_rosaria.json */; };
-		D92362BF27B65CEC00718766 /* materials_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623427B65CEB00718766 /* materials_yanfei.json */; };
-		D92362C027B65CEC00718766 /* materials_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623427B65CEB00718766 /* materials_yanfei.json */; };
-		D92362C127B65CEC00718766 /* materials_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623527B65CEB00718766 /* materials_xingqiu.json */; };
-		D92362C227B65CEC00718766 /* materials_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623527B65CEB00718766 /* materials_xingqiu.json */; };
-		D92362C327B65CEC00718766 /* stats_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623627B65CEB00718766 /* stats_chongyun.json */; };
-		D92362C427B65CEC00718766 /* stats_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623627B65CEB00718766 /* stats_chongyun.json */; };
-		D92362C527B65CEC00718766 /* materials_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623727B65CEC00718766 /* materials_jean.json */; };
-		D92362C627B65CEC00718766 /* materials_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623727B65CEC00718766 /* materials_jean.json */; };
-		D92362C727B65CEC00718766 /* stats_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623827B65CEC00718766 /* stats_sayu.json */; };
-		D92362C827B65CEC00718766 /* stats_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623827B65CEC00718766 /* stats_sayu.json */; };
-		D92362C927B65CEC00718766 /* stats_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623927B65CEC00718766 /* stats_yanfei.json */; };
-		D92362CA27B65CEC00718766 /* stats_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623927B65CEC00718766 /* stats_yanfei.json */; };
-		D92362CB27B65CEC00718766 /* materials_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623A27B65CEC00718766 /* materials_klee.json */; };
-		D92362CC27B65CEC00718766 /* materials_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623A27B65CEC00718766 /* materials_klee.json */; };
-		D92362CD27B65CEC00718766 /* materials_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623B27B65CEC00718766 /* materials_mona.json */; };
-		D92362CE27B65CEC00718766 /* materials_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623B27B65CEC00718766 /* materials_mona.json */; };
-		D92362CF27B65CEC00718766 /* materials_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623C27B65CEC00718766 /* materials_diona.json */; };
-		D92362D027B65CEC00718766 /* materials_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623C27B65CEC00718766 /* materials_diona.json */; };
-		D92362D127B65CEC00718766 /* stats_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623D27B65CEC00718766 /* stats_xingqiu.json */; };
-		D92362D227B65CEC00718766 /* stats_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623D27B65CEC00718766 /* stats_xingqiu.json */; };
-		D92362D327B65CEC00718766 /* materials_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623E27B65CEC00718766 /* materials_kaeya.json */; };
-		D92362D427B65CEC00718766 /* materials_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623E27B65CEC00718766 /* materials_kaeya.json */; };
-		D92362D527B65CEC00718766 /* materials_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623F27B65CEC00718766 /* materials_ningguang.json */; };
-		D92362D627B65CEC00718766 /* materials_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D923623F27B65CEC00718766 /* materials_ningguang.json */; };
-		D92362D727B65CEC00718766 /* stats_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624027B65CEC00718766 /* stats_kaedehara_kazuha.json */; };
-		D92362D827B65CEC00718766 /* stats_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624027B65CEC00718766 /* stats_kaedehara_kazuha.json */; };
-		D92362D927B65CEC00718766 /* stats_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624127B65CEC00718766 /* stats_amber.json */; };
-		D92362DA27B65CEC00718766 /* stats_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624127B65CEC00718766 /* stats_amber.json */; };
-		D92362DB27B65CEC00718766 /* stats_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624227B65CEC00718766 /* stats_diona.json */; };
-		D92362DC27B65CEC00718766 /* stats_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624227B65CEC00718766 /* stats_diona.json */; };
-		D92362DD27B65CEC00718766 /* materials_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624327B65CEC00718766 /* materials_noelle.json */; };
-		D92362DE27B65CEC00718766 /* materials_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624327B65CEC00718766 /* materials_noelle.json */; };
-		D92362DF27B65CEC00718766 /* materials_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624427B65CEC00718766 /* materials_qiqi.json */; };
-		D92362E027B65CEC00718766 /* materials_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624427B65CEC00718766 /* materials_qiqi.json */; };
-		D92362E127B65CEC00718766 /* stats_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624527B65CEC00718766 /* stats_kaeya.json */; };
-		D92362E227B65CEC00718766 /* stats_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624527B65CEC00718766 /* stats_kaeya.json */; };
-		D92362E327B65CEC00718766 /* stats_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624627B65CEC00718766 /* stats_kamisato_ayaka.json */; };
-		D92362E427B65CEC00718766 /* stats_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624627B65CEC00718766 /* stats_kamisato_ayaka.json */; };
-		D92362E527B65CEC00718766 /* materials_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624727B65CEC00718766 /* materials_sayu.json */; };
-		D92362E627B65CEC00718766 /* materials_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624727B65CEC00718766 /* materials_sayu.json */; };
-		D92362E727B65CEC00718766 /* stats_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624827B65CEC00718766 /* stats_aloy.json */; };
-		D92362E827B65CEC00718766 /* stats_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624827B65CEC00718766 /* stats_aloy.json */; };
-		D92362E927B65CEC00718766 /* materials_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624927B65CEC00718766 /* materials_raiden_shogun.json */; };
-		D92362EA27B65CEC00718766 /* materials_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624927B65CEC00718766 /* materials_raiden_shogun.json */; };
-		D92362EB27B65CEC00718766 /* stats_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624A27B65CEC00718766 /* stats_bennett.json */; };
-		D92362EC27B65CEC00718766 /* stats_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624A27B65CEC00718766 /* stats_bennett.json */; };
-		D92362ED27B65CEC00718766 /* stats_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624B27B65CEC00718766 /* stats_traveler.json */; };
-		D92362EE27B65CEC00718766 /* stats_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624B27B65CEC00718766 /* stats_traveler.json */; };
-		D92362EF27B65CEC00718766 /* stats_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624C27B65CEC00718766 /* stats_thoma.json */; };
-		D92362F027B65CEC00718766 /* stats_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624C27B65CEC00718766 /* stats_thoma.json */; };
-		D92362F127B65CEC00718766 /* materials_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624D27B65CEC00718766 /* materials_eula.json */; };
-		D92362F227B65CEC00718766 /* materials_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624D27B65CEC00718766 /* materials_eula.json */; };
-		D92362F327B65CEC00718766 /* materials_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624E27B65CEC00718766 /* materials_hu_tao.json */; };
-		D92362F427B65CEC00718766 /* materials_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624E27B65CEC00718766 /* materials_hu_tao.json */; };
-		D92362F527B65CEC00718766 /* stats_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624F27B65CEC00718766 /* stats_klee.json */; };
-		D92362F627B65CEC00718766 /* stats_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D923624F27B65CEC00718766 /* stats_klee.json */; };
-		D92362F727B65CEC00718766 /* materials_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625027B65CEC00718766 /* materials_ganyu.json */; };
-		D92362F827B65CEC00718766 /* materials_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625027B65CEC00718766 /* materials_ganyu.json */; };
-		D92362F927B65CEC00718766 /* stats_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625127B65CEC00718766 /* stats_albedo.json */; };
-		D92362FA27B65CEC00718766 /* stats_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625127B65CEC00718766 /* stats_albedo.json */; };
-		D92362FB27B65CEC00718766 /* stats_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625227B65CEC00718766 /* stats_xiangling.json */; };
-		D92362FC27B65CEC00718766 /* stats_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625227B65CEC00718766 /* stats_xiangling.json */; };
-		D92362FD27B65CEC00718766 /* materials_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625327B65CEC00718766 /* materials_kamisato_ayaka.json */; };
-		D92362FE27B65CEC00718766 /* materials_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625327B65CEC00718766 /* materials_kamisato_ayaka.json */; };
-		D92362FF27B65CEC00718766 /* materials_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625427B65CEC00718766 /* materials_xiangling.json */; };
-		D923630027B65CEC00718766 /* materials_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625427B65CEC00718766 /* materials_xiangling.json */; };
-		D923630127B65CEC00718766 /* materials_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625527B65CEC00718766 /* materials_arataki_itto.json */; };
-		D923630227B65CEC00718766 /* materials_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625527B65CEC00718766 /* materials_arataki_itto.json */; };
-		D923630327B65CEC00718766 /* materials_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625627B65CEC00718766 /* materials_xinyan.json */; };
-		D923630427B65CEC00718766 /* materials_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625627B65CEC00718766 /* materials_xinyan.json */; };
-		D923630527B65CEC00718766 /* materials_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625727B65CEC00718766 /* materials_bennett.json */; };
-		D923630627B65CEC00718766 /* materials_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625727B65CEC00718766 /* materials_bennett.json */; };
-		D923630727B65CEC00718766 /* materials_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625827B65CEC00718766 /* materials_keqing.json */; };
-		D923630827B65CEC00718766 /* materials_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625827B65CEC00718766 /* materials_keqing.json */; };
-		D923630927B65CEC00718766 /* materials_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625927B65CEC00718766 /* materials_aloy.json */; };
-		D923630A27B65CEC00718766 /* materials_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625927B65CEC00718766 /* materials_aloy.json */; };
-		D923630B27B65CEC00718766 /* stats_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625A27B65CEC00718766 /* stats_lisa.json */; };
-		D923630C27B65CEC00718766 /* stats_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625A27B65CEC00718766 /* stats_lisa.json */; };
-		D923630D27B65CEC00718766 /* stats_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625B27B65CEC00718766 /* stats_gorou.json */; };
-		D923630E27B65CEC00718766 /* stats_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625B27B65CEC00718766 /* stats_gorou.json */; };
-		D923630F27B65CEC00718766 /* stats_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625C27B65CEC00718766 /* stats_xinyan.json */; };
-		D923631027B65CEC00718766 /* stats_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625C27B65CEC00718766 /* stats_xinyan.json */; };
-		D923631127B65CEC00718766 /* stats_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625D27B65CEC00718766 /* stats_yoimiya.json */; };
-		D923631227B65CEC00718766 /* stats_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625D27B65CEC00718766 /* stats_yoimiya.json */; };
-		D923631327B65CEC00718766 /* stats_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625E27B65CEC00718766 /* stats_diluc.json */; };
-		D923631427B65CEC00718766 /* stats_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625E27B65CEC00718766 /* stats_diluc.json */; };
-		D923631527B65CEC00718766 /* materials_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625F27B65CEC00718766 /* materials_sucrose.json */; };
-		D923631627B65CEC00718766 /* materials_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D923625F27B65CEC00718766 /* materials_sucrose.json */; };
-		D923631727B65CEC00718766 /* stats_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923626027B65CEC00718766 /* stats_raiden_shogun.json */; };
-		D923631827B65CEC00718766 /* stats_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D923626027B65CEC00718766 /* stats_raiden_shogun.json */; };
-		D923631927B65CEC00718766 /* materials_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D923626127B65CEC00718766 /* materials_razor.json */; };
-		D923631A27B65CEC00718766 /* materials_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D923626127B65CEC00718766 /* materials_razor.json */; };
-		D923631B27B65CEC00718766 /* materials_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923626227B65CEC00718766 /* materials_sangonomiya_kokomi.json */; };
-		D923631C27B65CEC00718766 /* materials_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D923626227B65CEC00718766 /* materials_sangonomiya_kokomi.json */; };
 		D9275FE927AEE15500B3F854 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9275FE827AEE15500B3F854 /* Assets.xcassets */; };
 		D9275FEA27AEE15500B3F854 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9275FE827AEE15500B3F854 /* Assets.xcassets */; };
 		D9275FEC27B02FE800B3F854 /* Stat.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9275FEB27B02FE800B3F854 /* Stat.swift */; };
@@ -218,6 +32,194 @@
 		D9B7FDA027AC2BFE003734E4 /* Image+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B7FD9E27AC2AC5003734E4 /* Image+Extension.swift */; };
 		D9B9589027ABA0CA00ACB250 /* Decoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B9588F27ABA0CA00ACB250 /* Decoder.swift */; };
 		D9B9589127ABA2D000ACB250 /* Decoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B9588F27ABA0CA00ACB250 /* Decoder.swift */; };
+		D9D5C56027B7A6E000CCE956 /* stats_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50227B7A6DD00CCE956 /* stats_xingqiu.json */; };
+		D9D5C56127B7A6E000CCE956 /* stats_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50227B7A6DD00CCE956 /* stats_xingqiu.json */; };
+		D9D5C56227B7A6E000CCE956 /* materials_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50327B7A6DD00CCE956 /* materials_sucrose.json */; };
+		D9D5C56327B7A6E000CCE956 /* materials_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50327B7A6DD00CCE956 /* materials_sucrose.json */; };
+		D9D5C56427B7A6E000CCE956 /* materials_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50427B7A6DD00CCE956 /* materials_sangonomiya_kokomi.json */; };
+		D9D5C56527B7A6E000CCE956 /* materials_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50427B7A6DD00CCE956 /* materials_sangonomiya_kokomi.json */; };
+		D9D5C56627B7A6E000CCE956 /* stats_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50527B7A6DD00CCE956 /* stats_lisa.json */; };
+		D9D5C56727B7A6E000CCE956 /* stats_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50527B7A6DD00CCE956 /* stats_lisa.json */; };
+		D9D5C56827B7A6E000CCE956 /* stats_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50627B7A6DD00CCE956 /* stats_sangonomiya_kokomi.json */; };
+		D9D5C56927B7A6E000CCE956 /* stats_sangonomiya_kokomi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50627B7A6DD00CCE956 /* stats_sangonomiya_kokomi.json */; };
+		D9D5C56A27B7A6E000CCE956 /* materials_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50727B7A6DD00CCE956 /* materials_rosaria.json */; };
+		D9D5C56B27B7A6E000CCE956 /* materials_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50727B7A6DD00CCE956 /* materials_rosaria.json */; };
+		D9D5C56C27B7A6E000CCE956 /* materials_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50827B7A6DD00CCE956 /* materials_kaeya.json */; };
+		D9D5C56D27B7A6E000CCE956 /* materials_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50827B7A6DD00CCE956 /* materials_kaeya.json */; };
+		D9D5C56E27B7A6E000CCE956 /* materials_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50927B7A6DD00CCE956 /* materials_gorou.json */; };
+		D9D5C56F27B7A6E000CCE956 /* materials_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50927B7A6DD00CCE956 /* materials_gorou.json */; };
+		D9D5C57027B7A6E000CCE956 /* materials_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50A27B7A6DD00CCE956 /* materials_fischl.json */; };
+		D9D5C57127B7A6E000CCE956 /* materials_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50A27B7A6DD00CCE956 /* materials_fischl.json */; };
+		D9D5C57227B7A6E000CCE956 /* materials_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50B27B7A6DD00CCE956 /* materials_kaedehara_kazuha.json */; };
+		D9D5C57327B7A6E000CCE956 /* materials_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50B27B7A6DD00CCE956 /* materials_kaedehara_kazuha.json */; };
+		D9D5C57427B7A6E000CCE956 /* materials_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50C27B7A6DD00CCE956 /* materials_mona.json */; };
+		D9D5C57527B7A6E000CCE956 /* materials_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50C27B7A6DD00CCE956 /* materials_mona.json */; };
+		D9D5C57627B7A6E000CCE956 /* materials_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50D27B7A6DD00CCE956 /* materials_aloy.json */; };
+		D9D5C57727B7A6E000CCE956 /* materials_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50D27B7A6DD00CCE956 /* materials_aloy.json */; };
+		D9D5C57827B7A6E000CCE956 /* materials_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50E27B7A6DD00CCE956 /* materials_beidou.json */; };
+		D9D5C57927B7A6E000CCE956 /* materials_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50E27B7A6DD00CCE956 /* materials_beidou.json */; };
+		D9D5C57A27B7A6E000CCE956 /* stats_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50F27B7A6DD00CCE956 /* stats_bennett.json */; };
+		D9D5C57B27B7A6E000CCE956 /* stats_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50F27B7A6DD00CCE956 /* stats_bennett.json */; };
+		D9D5C57C27B7A6E000CCE956 /* stats_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51027B7A6DD00CCE956 /* stats_jean.json */; };
+		D9D5C57D27B7A6E000CCE956 /* stats_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51027B7A6DD00CCE956 /* stats_jean.json */; };
+		D9D5C57E27B7A6E000CCE956 /* materials_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51127B7A6DD00CCE956 /* materials_raiden_shogun.json */; };
+		D9D5C57F27B7A6E000CCE956 /* materials_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51127B7A6DD00CCE956 /* materials_raiden_shogun.json */; };
+		D9D5C58027B7A6E000CCE956 /* materials_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51227B7A6DD00CCE956 /* materials_eula.json */; };
+		D9D5C58127B7A6E000CCE956 /* materials_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51227B7A6DD00CCE956 /* materials_eula.json */; };
+		D9D5C58227B7A6E000CCE956 /* materials_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51327B7A6DD00CCE956 /* materials_lisa.json */; };
+		D9D5C58327B7A6E000CCE956 /* materials_lisa.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51327B7A6DD00CCE956 /* materials_lisa.json */; };
+		D9D5C58427B7A6E000CCE956 /* materials_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51427B7A6DE00CCE956 /* materials_barbara.json */; };
+		D9D5C58527B7A6E000CCE956 /* materials_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51427B7A6DE00CCE956 /* materials_barbara.json */; };
+		D9D5C58627B7A6E000CCE956 /* materials_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51527B7A6DE00CCE956 /* materials_yun_jin.json */; };
+		D9D5C58727B7A6E000CCE956 /* materials_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51527B7A6DE00CCE956 /* materials_yun_jin.json */; };
+		D9D5C58827B7A6E000CCE956 /* materials_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51627B7A6DE00CCE956 /* materials_shenhe.json */; };
+		D9D5C58927B7A6E000CCE956 /* materials_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51627B7A6DE00CCE956 /* materials_shenhe.json */; };
+		D9D5C58A27B7A6E000CCE956 /* stats_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51727B7A6DE00CCE956 /* stats_chongyun.json */; };
+		D9D5C58B27B7A6E000CCE956 /* stats_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51727B7A6DE00CCE956 /* stats_chongyun.json */; };
+		D9D5C58C27B7A6E000CCE956 /* stats_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51827B7A6DE00CCE956 /* stats_venti.json */; };
+		D9D5C58D27B7A6E000CCE956 /* stats_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51827B7A6DE00CCE956 /* stats_venti.json */; };
+		D9D5C58E27B7A6E000CCE956 /* materials_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51927B7A6DE00CCE956 /* materials_chongyun.json */; };
+		D9D5C58F27B7A6E000CCE956 /* materials_chongyun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51927B7A6DE00CCE956 /* materials_chongyun.json */; };
+		D9D5C59227B7A6E000CCE956 /* stats_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51B27B7A6DE00CCE956 /* stats_amber.json */; };
+		D9D5C59327B7A6E000CCE956 /* stats_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51B27B7A6DE00CCE956 /* stats_amber.json */; };
+		D9D5C59427B7A6E000CCE956 /* stats_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51C27B7A6DE00CCE956 /* stats_qiqi.json */; };
+		D9D5C59527B7A6E000CCE956 /* stats_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51C27B7A6DE00CCE956 /* stats_qiqi.json */; };
+		D9D5C59627B7A6E000CCE956 /* materials_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51D27B7A6DE00CCE956 /* materials_diona.json */; };
+		D9D5C59727B7A6E000CCE956 /* materials_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51D27B7A6DE00CCE956 /* materials_diona.json */; };
+		D9D5C59827B7A6E000CCE956 /* materials_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51E27B7A6DE00CCE956 /* materials_diluc.json */; };
+		D9D5C59927B7A6E000CCE956 /* materials_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51E27B7A6DE00CCE956 /* materials_diluc.json */; };
+		D9D5C59A27B7A6E000CCE956 /* materials_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51F27B7A6DE00CCE956 /* materials_albedo.json */; };
+		D9D5C59B27B7A6E000CCE956 /* materials_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C51F27B7A6DE00CCE956 /* materials_albedo.json */; };
+		D9D5C59C27B7A6E000CCE956 /* materials_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52027B7A6DE00CCE956 /* materials_venti.json */; };
+		D9D5C59D27B7A6E000CCE956 /* materials_venti.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52027B7A6DE00CCE956 /* materials_venti.json */; };
+		D9D5C59E27B7A6E000CCE956 /* materials_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52127B7A6DE00CCE956 /* materials_traveler.json */; };
+		D9D5C59F27B7A6E000CCE956 /* materials_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52127B7A6DE00CCE956 /* materials_traveler.json */; };
+		D9D5C5A027B7A6E000CCE956 /* stats_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52227B7A6DE00CCE956 /* stats_kaedehara_kazuha.json */; };
+		D9D5C5A127B7A6E000CCE956 /* stats_kaedehara_kazuha.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52227B7A6DE00CCE956 /* stats_kaedehara_kazuha.json */; };
+		D9D5C5A227B7A6E000CCE956 /* stats_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52327B7A6DE00CCE956 /* stats_tartaglia.json */; };
+		D9D5C5A327B7A6E000CCE956 /* stats_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52327B7A6DE00CCE956 /* stats_tartaglia.json */; };
+		D9D5C5A427B7A6E000CCE956 /* stats_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52427B7A6DE00CCE956 /* stats_gorou.json */; };
+		D9D5C5A527B7A6E000CCE956 /* stats_gorou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52427B7A6DE00CCE956 /* stats_gorou.json */; };
+		D9D5C5A627B7A6E000CCE956 /* stats_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52527B7A6DE00CCE956 /* stats_thoma.json */; };
+		D9D5C5A727B7A6E000CCE956 /* stats_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52527B7A6DE00CCE956 /* stats_thoma.json */; };
+		D9D5C5A827B7A6E000CCE956 /* materials_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52627B7A6DE00CCE956 /* materials_xiao.json */; };
+		D9D5C5A927B7A6E000CCE956 /* materials_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52627B7A6DE00CCE956 /* materials_xiao.json */; };
+		D9D5C5AA27B7A6E000CCE956 /* materials_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52727B7A6DE00CCE956 /* materials_qiqi.json */; };
+		D9D5C5AB27B7A6E000CCE956 /* materials_qiqi.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52727B7A6DE00CCE956 /* materials_qiqi.json */; };
+		D9D5C5AC27B7A6E000CCE956 /* materials_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52827B7A6DE00CCE956 /* materials_amber.json */; };
+		D9D5C5AD27B7A6E000CCE956 /* materials_amber.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52827B7A6DE00CCE956 /* materials_amber.json */; };
+		D9D5C5AE27B7A6E000CCE956 /* stats_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52927B7A6DE00CCE956 /* stats_diluc.json */; };
+		D9D5C5AF27B7A6E000CCE956 /* stats_diluc.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52927B7A6DE00CCE956 /* stats_diluc.json */; };
+		D9D5C5B027B7A6E000CCE956 /* stats_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52A27B7A6DE00CCE956 /* stats_rosaria.json */; };
+		D9D5C5B127B7A6E000CCE956 /* stats_rosaria.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52A27B7A6DE00CCE956 /* stats_rosaria.json */; };
+		D9D5C5B227B7A6E000CCE956 /* stats_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52B27B7A6DE00CCE956 /* stats_xiangling.json */; };
+		D9D5C5B327B7A6E000CCE956 /* stats_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52B27B7A6DE00CCE956 /* stats_xiangling.json */; };
+		D9D5C5B427B7A6E000CCE956 /* materials_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52C27B7A6DE00CCE956 /* materials_keqing.json */; };
+		D9D5C5B527B7A6E000CCE956 /* materials_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52C27B7A6DE00CCE956 /* materials_keqing.json */; };
+		D9D5C5B627B7A6E000CCE956 /* materials_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52D27B7A6DE00CCE956 /* materials_xingqiu.json */; };
+		D9D5C5B727B7A6E000CCE956 /* materials_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52D27B7A6DE00CCE956 /* materials_xingqiu.json */; };
+		D9D5C5B827B7A6E000CCE956 /* materials_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52E27B7A6DE00CCE956 /* materials_xinyan.json */; };
+		D9D5C5B927B7A6E000CCE956 /* materials_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52E27B7A6DE00CCE956 /* materials_xinyan.json */; };
+		D9D5C5BA27B7A6E000CCE956 /* stats_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52F27B7A6DE00CCE956 /* stats_aloy.json */; };
+		D9D5C5BB27B7A6E000CCE956 /* stats_aloy.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C52F27B7A6DE00CCE956 /* stats_aloy.json */; };
+		D9D5C5BC27B7A6E000CCE956 /* stats_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53027B7A6DE00CCE956 /* stats_kujou_sara.json */; };
+		D9D5C5BD27B7A6E000CCE956 /* stats_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53027B7A6DE00CCE956 /* stats_kujou_sara.json */; };
+		D9D5C5BE27B7A6E000CCE956 /* stats_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53127B7A6DE00CCE956 /* stats_raiden_shogun.json */; };
+		D9D5C5BF27B7A6E000CCE956 /* stats_raiden_shogun.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53127B7A6DE00CCE956 /* stats_raiden_shogun.json */; };
+		D9D5C5C027B7A6E000CCE956 /* stats_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53227B7A6DE00CCE956 /* stats_yanfei.json */; };
+		D9D5C5C127B7A6E000CCE956 /* stats_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53227B7A6DE00CCE956 /* stats_yanfei.json */; };
+		D9D5C5C227B7A6E000CCE956 /* stats_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53327B7A6DF00CCE956 /* stats_xinyan.json */; };
+		D9D5C5C327B7A6E000CCE956 /* stats_xinyan.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53327B7A6DF00CCE956 /* stats_xinyan.json */; };
+		D9D5C5C427B7A6E000CCE956 /* materials_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53427B7A6DF00CCE956 /* materials_sayu.json */; };
+		D9D5C5C527B7A6E000CCE956 /* materials_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53427B7A6DF00CCE956 /* materials_sayu.json */; };
+		D9D5C5C627B7A6E000CCE956 /* materials_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53527B7A6DF00CCE956 /* materials_arataki_itto.json */; };
+		D9D5C5C727B7A6E000CCE956 /* materials_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53527B7A6DF00CCE956 /* materials_arataki_itto.json */; };
+		D9D5C5C827B7A6E000CCE956 /* stats_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53627B7A6DF00CCE956 /* stats_ningguang.json */; };
+		D9D5C5C927B7A6E000CCE956 /* stats_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53627B7A6DF00CCE956 /* stats_ningguang.json */; };
+		D9D5C5CA27B7A6E000CCE956 /* materials_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53727B7A6DF00CCE956 /* materials_tartaglia.json */; };
+		D9D5C5CB27B7A6E000CCE956 /* materials_tartaglia.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53727B7A6DF00CCE956 /* materials_tartaglia.json */; };
+		D9D5C5CC27B7A6E000CCE956 /* materials_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53827B7A6DF00CCE956 /* materials_thoma.json */; };
+		D9D5C5CD27B7A6E000CCE956 /* materials_thoma.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53827B7A6DF00CCE956 /* materials_thoma.json */; };
+		D9D5C5CE27B7A6E000CCE956 /* materials_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53927B7A6DF00CCE956 /* materials_bennett.json */; };
+		D9D5C5CF27B7A6E000CCE956 /* materials_bennett.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53927B7A6DF00CCE956 /* materials_bennett.json */; };
+		D9D5C5D027B7A6E000CCE956 /* stats_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53A27B7A6DF00CCE956 /* stats_barbara.json */; };
+		D9D5C5D127B7A6E000CCE956 /* stats_barbara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53A27B7A6DF00CCE956 /* stats_barbara.json */; };
+		D9D5C5D227B7A6E000CCE956 /* stats_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53B27B7A6DF00CCE956 /* stats_kaeya.json */; };
+		D9D5C5D327B7A6E000CCE956 /* stats_kaeya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53B27B7A6DF00CCE956 /* stats_kaeya.json */; };
+		D9D5C5D427B7A6E000CCE956 /* stats_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53C27B7A6DF00CCE956 /* stats_arataki_itto.json */; };
+		D9D5C5D527B7A6E000CCE956 /* stats_arataki_itto.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53C27B7A6DF00CCE956 /* stats_arataki_itto.json */; };
+		D9D5C5D627B7A6E000CCE956 /* stats_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53D27B7A6DF00CCE956 /* stats_sayu.json */; };
+		D9D5C5D727B7A6E000CCE956 /* stats_sayu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53D27B7A6DF00CCE956 /* stats_sayu.json */; };
+		D9D5C5D827B7A6E000CCE956 /* materials_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53E27B7A6DF00CCE956 /* materials_jean.json */; };
+		D9D5C5D927B7A6E000CCE956 /* materials_jean.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53E27B7A6DF00CCE956 /* materials_jean.json */; };
+		D9D5C5DA27B7A6E000CCE956 /* materials_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53F27B7A6DF00CCE956 /* materials_xiangling.json */; };
+		D9D5C5DB27B7A6E000CCE956 /* materials_xiangling.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C53F27B7A6DF00CCE956 /* materials_xiangling.json */; };
+		D9D5C5DC27B7A6E000CCE956 /* stats_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54027B7A6DF00CCE956 /* stats_beidou.json */; };
+		D9D5C5DD27B7A6E000CCE956 /* stats_beidou.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54027B7A6DF00CCE956 /* stats_beidou.json */; };
+		D9D5C5DE27B7A6E000CCE956 /* stats_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54127B7A6DF00CCE956 /* stats_kamisato_ayaka.json */; };
+		D9D5C5DF27B7A6E000CCE956 /* stats_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54127B7A6DF00CCE956 /* stats_kamisato_ayaka.json */; };
+		D9D5C5E027B7A6E000CCE956 /* stats_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54227B7A6DF00CCE956 /* stats_keqing.json */; };
+		D9D5C5E127B7A6E000CCE956 /* stats_keqing.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54227B7A6DF00CCE956 /* stats_keqing.json */; };
+		D9D5C5E227B7A6E000CCE956 /* materials_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54327B7A6DF00CCE956 /* materials_kamisato_ayaka.json */; };
+		D9D5C5E327B7A6E000CCE956 /* materials_kamisato_ayaka.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54327B7A6DF00CCE956 /* materials_kamisato_ayaka.json */; };
+		D9D5C5E427B7A6E000CCE956 /* stats_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54427B7A6DF00CCE956 /* stats_hu_tao.json */; };
+		D9D5C5E527B7A6E000CCE956 /* stats_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54427B7A6DF00CCE956 /* stats_hu_tao.json */; };
+		D9D5C5E627B7A6E000CCE956 /* urls.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54527B7A6DF00CCE956 /* urls.json */; };
+		D9D5C5E727B7A6E000CCE956 /* urls.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54527B7A6DF00CCE956 /* urls.json */; };
+		D9D5C5E827B7A6E000CCE956 /* materials_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54627B7A6DF00CCE956 /* materials_noelle.json */; };
+		D9D5C5E927B7A6E000CCE956 /* materials_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54627B7A6DF00CCE956 /* materials_noelle.json */; };
+		D9D5C5EA27B7A6E000CCE956 /* stats_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54727B7A6DF00CCE956 /* stats_albedo.json */; };
+		D9D5C5EB27B7A6E000CCE956 /* stats_albedo.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54727B7A6DF00CCE956 /* stats_albedo.json */; };
+		D9D5C5EC27B7A6E000CCE956 /* stats_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54827B7A6DF00CCE956 /* stats_diona.json */; };
+		D9D5C5ED27B7A6E000CCE956 /* stats_diona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54827B7A6DF00CCE956 /* stats_diona.json */; };
+		D9D5C5EE27B7A6E000CCE956 /* stats_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54927B7A6DF00CCE956 /* stats_razor.json */; };
+		D9D5C5EF27B7A6E000CCE956 /* stats_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54927B7A6DF00CCE956 /* stats_razor.json */; };
+		D9D5C5F027B7A6E000CCE956 /* stats_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54A27B7A6DF00CCE956 /* stats_yoimiya.json */; };
+		D9D5C5F127B7A6E000CCE956 /* stats_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54A27B7A6DF00CCE956 /* stats_yoimiya.json */; };
+		D9D5C5F227B7A6E000CCE956 /* stats_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54B27B7A6DF00CCE956 /* stats_traveler.json */; };
+		D9D5C5F327B7A6E000CCE956 /* stats_traveler.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54B27B7A6DF00CCE956 /* stats_traveler.json */; };
+		D9D5C5F427B7A6E000CCE956 /* materials_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54C27B7A6DF00CCE956 /* materials_razor.json */; };
+		D9D5C5F527B7A6E000CCE956 /* materials_razor.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54C27B7A6DF00CCE956 /* materials_razor.json */; };
+		D9D5C5F627B7A6E000CCE956 /* stats_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54D27B7A6DF00CCE956 /* stats_mona.json */; };
+		D9D5C5F727B7A6E000CCE956 /* stats_mona.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54D27B7A6DF00CCE956 /* stats_mona.json */; };
+		D9D5C5F827B7A6E000CCE956 /* materials_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54E27B7A6E000CCE956 /* materials_ningguang.json */; };
+		D9D5C5F927B7A6E000CCE956 /* materials_ningguang.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54E27B7A6E000CCE956 /* materials_ningguang.json */; };
+		D9D5C5FA27B7A6E000CCE956 /* materials_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54F27B7A6E000CCE956 /* materials_yoimiya.json */; };
+		D9D5C5FB27B7A6E000CCE956 /* materials_yoimiya.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C54F27B7A6E000CCE956 /* materials_yoimiya.json */; };
+		D9D5C5FC27B7A6E000CCE956 /* stats_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55027B7A6E000CCE956 /* stats_eula.json */; };
+		D9D5C5FD27B7A6E000CCE956 /* stats_eula.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55027B7A6E000CCE956 /* stats_eula.json */; };
+		D9D5C5FE27B7A6E000CCE956 /* materials_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55127B7A6E000CCE956 /* materials_kujou_sara.json */; };
+		D9D5C5FF27B7A6E000CCE956 /* materials_kujou_sara.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55127B7A6E000CCE956 /* materials_kujou_sara.json */; };
+		D9D5C60027B7A6E000CCE956 /* stats_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55227B7A6E000CCE956 /* stats_shenhe.json */; };
+		D9D5C60127B7A6E000CCE956 /* stats_shenhe.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55227B7A6E000CCE956 /* stats_shenhe.json */; };
+		D9D5C60227B7A6E000CCE956 /* materials_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55327B7A6E000CCE956 /* materials_ganyu.json */; };
+		D9D5C60327B7A6E000CCE956 /* materials_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55327B7A6E000CCE956 /* materials_ganyu.json */; };
+		D9D5C60427B7A6E000CCE956 /* stats_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55427B7A6E000CCE956 /* stats_sucrose.json */; };
+		D9D5C60527B7A6E000CCE956 /* stats_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55427B7A6E000CCE956 /* stats_sucrose.json */; };
+		D9D5C60627B7A6E000CCE956 /* materials_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55527B7A6E000CCE956 /* materials_klee.json */; };
+		D9D5C60727B7A6E000CCE956 /* materials_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55527B7A6E000CCE956 /* materials_klee.json */; };
+		D9D5C60827B7A6E000CCE956 /* stats_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55627B7A6E000CCE956 /* stats_xiao.json */; };
+		D9D5C60927B7A6E000CCE956 /* stats_xiao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55627B7A6E000CCE956 /* stats_xiao.json */; };
+		D9D5C60A27B7A6E000CCE956 /* stats_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55727B7A6E000CCE956 /* stats_zhongli.json */; };
+		D9D5C60B27B7A6E000CCE956 /* stats_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55727B7A6E000CCE956 /* stats_zhongli.json */; };
+		D9D5C60C27B7A6E000CCE956 /* materials_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55827B7A6E000CCE956 /* materials_yanfei.json */; };
+		D9D5C60D27B7A6E000CCE956 /* materials_yanfei.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55827B7A6E000CCE956 /* materials_yanfei.json */; };
+		D9D5C60E27B7A6E000CCE956 /* stats_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55927B7A6E000CCE956 /* stats_yun_jin.json */; };
+		D9D5C60F27B7A6E000CCE956 /* stats_yun_jin.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55927B7A6E000CCE956 /* stats_yun_jin.json */; };
+		D9D5C61027B7A6E000CCE956 /* materials_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55A27B7A6E000CCE956 /* materials_hu_tao.json */; };
+		D9D5C61127B7A6E000CCE956 /* materials_hu_tao.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55A27B7A6E000CCE956 /* materials_hu_tao.json */; };
+		D9D5C61227B7A6E000CCE956 /* stats_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55B27B7A6E000CCE956 /* stats_fischl.json */; };
+		D9D5C61327B7A6E000CCE956 /* stats_fischl.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55B27B7A6E000CCE956 /* stats_fischl.json */; };
+		D9D5C61427B7A6E000CCE956 /* stats_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55C27B7A6E000CCE956 /* stats_ganyu.json */; };
+		D9D5C61527B7A6E000CCE956 /* stats_ganyu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55C27B7A6E000CCE956 /* stats_ganyu.json */; };
+		D9D5C61627B7A6E000CCE956 /* stats_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55D27B7A6E000CCE956 /* stats_noelle.json */; };
+		D9D5C61727B7A6E000CCE956 /* stats_noelle.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55D27B7A6E000CCE956 /* stats_noelle.json */; };
+		D9D5C61827B7A6E000CCE956 /* materials_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55E27B7A6E000CCE956 /* materials_zhongli.json */; };
+		D9D5C61927B7A6E000CCE956 /* materials_zhongli.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55E27B7A6E000CCE956 /* materials_zhongli.json */; };
+		D9D5C61A27B7A6E000CCE956 /* stats_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55F27B7A6E000CCE956 /* stats_klee.json */; };
+		D9D5C61B27B7A6E000CCE956 /* stats_klee.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C55F27B7A6E000CCE956 /* stats_klee.json */; };
+		D9D5C61D27B7A70700CCE956 /* bio.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C61C27B7A70700CCE956 /* bio.json */; };
+		D9D5C61E27B7A70700CCE956 /* bio.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C61C27B7A70700CCE956 /* bio.json */; };
 		D9D5F54727A5542300834035 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D5F54627A5542300834035 /* Tests_iOS.swift */; };
 		D9D5F54927A5542300834035 /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D5F54827A5542300834035 /* Tests_iOSLaunchTests.swift */; };
 		D9D5F55327A5542300834035 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D5F55227A5542300834035 /* Tests_macOS.swift */; };
@@ -248,99 +250,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D923620627B65CEB00718766 /* stats_jean.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_jean.json; sourceTree = "<group>"; };
-		D923620727B65CEB00718766 /* materials_kujou_sara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kujou_sara.json; sourceTree = "<group>"; };
-		D923620827B65CEB00718766 /* stats_ganyu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_ganyu.json; sourceTree = "<group>"; };
-		D923620927B65CEB00718766 /* stats_sangonomiya_kokomi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_sangonomiya_kokomi.json; sourceTree = "<group>"; };
-		D923620A27B65CEB00718766 /* materials_chongyun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_chongyun.json; sourceTree = "<group>"; };
-		D923620B27B65CEB00718766 /* stats_tartaglia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_tartaglia.json; sourceTree = "<group>"; };
-		D923620C27B65CEB00718766 /* stats_xiao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xiao.json; sourceTree = "<group>"; };
-		D923620D27B65CEB00718766 /* stats_barbara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_barbara.json; sourceTree = "<group>"; };
-		D923620E27B65CEB00718766 /* stats_noelle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_noelle.json; sourceTree = "<group>"; };
-		D923620F27B65CEB00718766 /* stats_shenhe.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_shenhe.json; sourceTree = "<group>"; };
-		D923621027B65CEB00718766 /* stats_sucrose.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_sucrose.json; sourceTree = "<group>"; };
-		D923621127B65CEB00718766 /* stats_yun_jin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_yun_jin.json; sourceTree = "<group>"; };
-		D923621227B65CEB00718766 /* stats_razor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_razor.json; sourceTree = "<group>"; };
-		D923621327B65CEB00718766 /* bio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bio.json; sourceTree = "<group>"; };
-		D923621427B65CEB00718766 /* materials_yoimiya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_yoimiya.json; sourceTree = "<group>"; };
-		D923621527B65CEB00718766 /* materials_zhongli.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_zhongli.json; sourceTree = "<group>"; };
-		D923621627B65CEB00718766 /* materials_diluc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_diluc.json; sourceTree = "<group>"; };
-		D923621727B65CEB00718766 /* materials_traveler.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_traveler.json; sourceTree = "<group>"; };
-		D923621827B65CEB00718766 /* materials_xiao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xiao.json; sourceTree = "<group>"; };
-		D923621927B65CEB00718766 /* materials_barbara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_barbara.json; sourceTree = "<group>"; };
-		D923621A27B65CEB00718766 /* materials_shenhe.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_shenhe.json; sourceTree = "<group>"; };
-		D923621B27B65CEB00718766 /* materials_thoma.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_thoma.json; sourceTree = "<group>"; };
-		D923621C27B65CEB00718766 /* materials_lisa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_lisa.json; sourceTree = "<group>"; };
-		D923621D27B65CEB00718766 /* stats_fischl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_fischl.json; sourceTree = "<group>"; };
-		D923621E27B65CEB00718766 /* stats_keqing.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_keqing.json; sourceTree = "<group>"; };
-		D923621F27B65CEB00718766 /* materials_venti.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_venti.json; sourceTree = "<group>"; };
-		D923622027B65CEB00718766 /* materials_yun_jin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_yun_jin.json; sourceTree = "<group>"; };
-		D923622127B65CEB00718766 /* materials_rosaria.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_rosaria.json; sourceTree = "<group>"; };
-		D923622227B65CEB00718766 /* stats_hu_tao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_hu_tao.json; sourceTree = "<group>"; };
-		D923622327B65CEB00718766 /* materials_albedo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_albedo.json; sourceTree = "<group>"; };
-		D923622427B65CEB00718766 /* materials_fischl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_fischl.json; sourceTree = "<group>"; };
-		D923622527B65CEB00718766 /* stats_kujou_sara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kujou_sara.json; sourceTree = "<group>"; };
-		D923622627B65CEB00718766 /* materials_amber.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_amber.json; sourceTree = "<group>"; };
-		D923622727B65CEB00718766 /* materials_beidou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_beidou.json; sourceTree = "<group>"; };
-		D923622827B65CEB00718766 /* stats_ningguang.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_ningguang.json; sourceTree = "<group>"; };
-		D923622927B65CEB00718766 /* stats_qiqi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_qiqi.json; sourceTree = "<group>"; };
-		D923622A27B65CEB00718766 /* materials_tartaglia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_tartaglia.json; sourceTree = "<group>"; };
-		D923622B27B65CEB00718766 /* stats_zhongli.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_zhongli.json; sourceTree = "<group>"; };
-		D923622C27B65CEB00718766 /* stats_venti.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_venti.json; sourceTree = "<group>"; };
-		D923622D27B65CEB00718766 /* stats_arataki_itto.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_arataki_itto.json; sourceTree = "<group>"; };
-		D923622E27B65CEB00718766 /* stats_beidou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_beidou.json; sourceTree = "<group>"; };
-		D923622F27B65CEB00718766 /* materials_kaedehara_kazuha.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kaedehara_kazuha.json; sourceTree = "<group>"; };
-		D923623027B65CEB00718766 /* stats_mona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_mona.json; sourceTree = "<group>"; };
-		D923623127B65CEB00718766 /* materials_gorou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_gorou.json; sourceTree = "<group>"; };
-		D923623227B65CEB00718766 /* stats_eula.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_eula.json; sourceTree = "<group>"; };
-		D923623327B65CEB00718766 /* stats_rosaria.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_rosaria.json; sourceTree = "<group>"; };
-		D923623427B65CEB00718766 /* materials_yanfei.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_yanfei.json; sourceTree = "<group>"; };
-		D923623527B65CEB00718766 /* materials_xingqiu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xingqiu.json; sourceTree = "<group>"; };
-		D923623627B65CEB00718766 /* stats_chongyun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_chongyun.json; sourceTree = "<group>"; };
-		D923623727B65CEC00718766 /* materials_jean.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_jean.json; sourceTree = "<group>"; };
-		D923623827B65CEC00718766 /* stats_sayu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_sayu.json; sourceTree = "<group>"; };
-		D923623927B65CEC00718766 /* stats_yanfei.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_yanfei.json; sourceTree = "<group>"; };
-		D923623A27B65CEC00718766 /* materials_klee.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_klee.json; sourceTree = "<group>"; };
-		D923623B27B65CEC00718766 /* materials_mona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_mona.json; sourceTree = "<group>"; };
-		D923623C27B65CEC00718766 /* materials_diona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_diona.json; sourceTree = "<group>"; };
-		D923623D27B65CEC00718766 /* stats_xingqiu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xingqiu.json; sourceTree = "<group>"; };
-		D923623E27B65CEC00718766 /* materials_kaeya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kaeya.json; sourceTree = "<group>"; };
-		D923623F27B65CEC00718766 /* materials_ningguang.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_ningguang.json; sourceTree = "<group>"; };
-		D923624027B65CEC00718766 /* stats_kaedehara_kazuha.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kaedehara_kazuha.json; sourceTree = "<group>"; };
-		D923624127B65CEC00718766 /* stats_amber.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_amber.json; sourceTree = "<group>"; };
-		D923624227B65CEC00718766 /* stats_diona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_diona.json; sourceTree = "<group>"; };
-		D923624327B65CEC00718766 /* materials_noelle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_noelle.json; sourceTree = "<group>"; };
-		D923624427B65CEC00718766 /* materials_qiqi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_qiqi.json; sourceTree = "<group>"; };
-		D923624527B65CEC00718766 /* stats_kaeya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kaeya.json; sourceTree = "<group>"; };
-		D923624627B65CEC00718766 /* stats_kamisato_ayaka.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kamisato_ayaka.json; sourceTree = "<group>"; };
-		D923624727B65CEC00718766 /* materials_sayu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sayu.json; sourceTree = "<group>"; };
-		D923624827B65CEC00718766 /* stats_aloy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_aloy.json; sourceTree = "<group>"; };
-		D923624927B65CEC00718766 /* materials_raiden_shogun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_raiden_shogun.json; sourceTree = "<group>"; };
-		D923624A27B65CEC00718766 /* stats_bennett.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_bennett.json; sourceTree = "<group>"; };
-		D923624B27B65CEC00718766 /* stats_traveler.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_traveler.json; sourceTree = "<group>"; };
-		D923624C27B65CEC00718766 /* stats_thoma.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_thoma.json; sourceTree = "<group>"; };
-		D923624D27B65CEC00718766 /* materials_eula.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_eula.json; sourceTree = "<group>"; };
-		D923624E27B65CEC00718766 /* materials_hu_tao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_hu_tao.json; sourceTree = "<group>"; };
-		D923624F27B65CEC00718766 /* stats_klee.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_klee.json; sourceTree = "<group>"; };
-		D923625027B65CEC00718766 /* materials_ganyu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_ganyu.json; sourceTree = "<group>"; };
-		D923625127B65CEC00718766 /* stats_albedo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_albedo.json; sourceTree = "<group>"; };
-		D923625227B65CEC00718766 /* stats_xiangling.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xiangling.json; sourceTree = "<group>"; };
-		D923625327B65CEC00718766 /* materials_kamisato_ayaka.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kamisato_ayaka.json; sourceTree = "<group>"; };
-		D923625427B65CEC00718766 /* materials_xiangling.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xiangling.json; sourceTree = "<group>"; };
-		D923625527B65CEC00718766 /* materials_arataki_itto.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_arataki_itto.json; sourceTree = "<group>"; };
-		D923625627B65CEC00718766 /* materials_xinyan.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xinyan.json; sourceTree = "<group>"; };
-		D923625727B65CEC00718766 /* materials_bennett.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_bennett.json; sourceTree = "<group>"; };
-		D923625827B65CEC00718766 /* materials_keqing.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_keqing.json; sourceTree = "<group>"; };
-		D923625927B65CEC00718766 /* materials_aloy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_aloy.json; sourceTree = "<group>"; };
-		D923625A27B65CEC00718766 /* stats_lisa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_lisa.json; sourceTree = "<group>"; };
-		D923625B27B65CEC00718766 /* stats_gorou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_gorou.json; sourceTree = "<group>"; };
-		D923625C27B65CEC00718766 /* stats_xinyan.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xinyan.json; sourceTree = "<group>"; };
-		D923625D27B65CEC00718766 /* stats_yoimiya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_yoimiya.json; sourceTree = "<group>"; };
-		D923625E27B65CEC00718766 /* stats_diluc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_diluc.json; sourceTree = "<group>"; };
-		D923625F27B65CEC00718766 /* materials_sucrose.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sucrose.json; sourceTree = "<group>"; };
-		D923626027B65CEC00718766 /* stats_raiden_shogun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_raiden_shogun.json; sourceTree = "<group>"; };
-		D923626127B65CEC00718766 /* materials_razor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_razor.json; sourceTree = "<group>"; };
-		D923626227B65CEC00718766 /* materials_sangonomiya_kokomi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sangonomiya_kokomi.json; sourceTree = "<group>"; };
 		D9275FE827AEE15500B3F854 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9275FEB27B02FE800B3F854 /* Stat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stat.swift; sourceTree = "<group>"; };
 		D92EB0CE27A82FB8004A7AFB /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
@@ -355,6 +264,100 @@
 		D9B7B45527A6BE940015C2C1 /* CharacterPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterPage.swift; sourceTree = "<group>"; };
 		D9B7FD9E27AC2AC5003734E4 /* Image+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Image+Extension.swift"; sourceTree = "<group>"; };
 		D9B9588F27ABA0CA00ACB250 /* Decoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decoder.swift; sourceTree = "<group>"; };
+		D9D5C50227B7A6DD00CCE956 /* stats_xingqiu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xingqiu.json; sourceTree = "<group>"; };
+		D9D5C50327B7A6DD00CCE956 /* materials_sucrose.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sucrose.json; sourceTree = "<group>"; };
+		D9D5C50427B7A6DD00CCE956 /* materials_sangonomiya_kokomi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sangonomiya_kokomi.json; sourceTree = "<group>"; };
+		D9D5C50527B7A6DD00CCE956 /* stats_lisa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_lisa.json; sourceTree = "<group>"; };
+		D9D5C50627B7A6DD00CCE956 /* stats_sangonomiya_kokomi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_sangonomiya_kokomi.json; sourceTree = "<group>"; };
+		D9D5C50727B7A6DD00CCE956 /* materials_rosaria.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_rosaria.json; sourceTree = "<group>"; };
+		D9D5C50827B7A6DD00CCE956 /* materials_kaeya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kaeya.json; sourceTree = "<group>"; };
+		D9D5C50927B7A6DD00CCE956 /* materials_gorou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_gorou.json; sourceTree = "<group>"; };
+		D9D5C50A27B7A6DD00CCE956 /* materials_fischl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_fischl.json; sourceTree = "<group>"; };
+		D9D5C50B27B7A6DD00CCE956 /* materials_kaedehara_kazuha.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kaedehara_kazuha.json; sourceTree = "<group>"; };
+		D9D5C50C27B7A6DD00CCE956 /* materials_mona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_mona.json; sourceTree = "<group>"; };
+		D9D5C50D27B7A6DD00CCE956 /* materials_aloy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_aloy.json; sourceTree = "<group>"; };
+		D9D5C50E27B7A6DD00CCE956 /* materials_beidou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_beidou.json; sourceTree = "<group>"; };
+		D9D5C50F27B7A6DD00CCE956 /* stats_bennett.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_bennett.json; sourceTree = "<group>"; };
+		D9D5C51027B7A6DD00CCE956 /* stats_jean.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_jean.json; sourceTree = "<group>"; };
+		D9D5C51127B7A6DD00CCE956 /* materials_raiden_shogun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_raiden_shogun.json; sourceTree = "<group>"; };
+		D9D5C51227B7A6DD00CCE956 /* materials_eula.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_eula.json; sourceTree = "<group>"; };
+		D9D5C51327B7A6DD00CCE956 /* materials_lisa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_lisa.json; sourceTree = "<group>"; };
+		D9D5C51427B7A6DE00CCE956 /* materials_barbara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_barbara.json; sourceTree = "<group>"; };
+		D9D5C51527B7A6DE00CCE956 /* materials_yun_jin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_yun_jin.json; sourceTree = "<group>"; };
+		D9D5C51627B7A6DE00CCE956 /* materials_shenhe.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_shenhe.json; sourceTree = "<group>"; };
+		D9D5C51727B7A6DE00CCE956 /* stats_chongyun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_chongyun.json; sourceTree = "<group>"; };
+		D9D5C51827B7A6DE00CCE956 /* stats_venti.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_venti.json; sourceTree = "<group>"; };
+		D9D5C51927B7A6DE00CCE956 /* materials_chongyun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_chongyun.json; sourceTree = "<group>"; };
+		D9D5C51B27B7A6DE00CCE956 /* stats_amber.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_amber.json; sourceTree = "<group>"; };
+		D9D5C51C27B7A6DE00CCE956 /* stats_qiqi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_qiqi.json; sourceTree = "<group>"; };
+		D9D5C51D27B7A6DE00CCE956 /* materials_diona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_diona.json; sourceTree = "<group>"; };
+		D9D5C51E27B7A6DE00CCE956 /* materials_diluc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_diluc.json; sourceTree = "<group>"; };
+		D9D5C51F27B7A6DE00CCE956 /* materials_albedo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_albedo.json; sourceTree = "<group>"; };
+		D9D5C52027B7A6DE00CCE956 /* materials_venti.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_venti.json; sourceTree = "<group>"; };
+		D9D5C52127B7A6DE00CCE956 /* materials_traveler.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_traveler.json; sourceTree = "<group>"; };
+		D9D5C52227B7A6DE00CCE956 /* stats_kaedehara_kazuha.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kaedehara_kazuha.json; sourceTree = "<group>"; };
+		D9D5C52327B7A6DE00CCE956 /* stats_tartaglia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_tartaglia.json; sourceTree = "<group>"; };
+		D9D5C52427B7A6DE00CCE956 /* stats_gorou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_gorou.json; sourceTree = "<group>"; };
+		D9D5C52527B7A6DE00CCE956 /* stats_thoma.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_thoma.json; sourceTree = "<group>"; };
+		D9D5C52627B7A6DE00CCE956 /* materials_xiao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xiao.json; sourceTree = "<group>"; };
+		D9D5C52727B7A6DE00CCE956 /* materials_qiqi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_qiqi.json; sourceTree = "<group>"; };
+		D9D5C52827B7A6DE00CCE956 /* materials_amber.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_amber.json; sourceTree = "<group>"; };
+		D9D5C52927B7A6DE00CCE956 /* stats_diluc.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_diluc.json; sourceTree = "<group>"; };
+		D9D5C52A27B7A6DE00CCE956 /* stats_rosaria.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_rosaria.json; sourceTree = "<group>"; };
+		D9D5C52B27B7A6DE00CCE956 /* stats_xiangling.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xiangling.json; sourceTree = "<group>"; };
+		D9D5C52C27B7A6DE00CCE956 /* materials_keqing.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_keqing.json; sourceTree = "<group>"; };
+		D9D5C52D27B7A6DE00CCE956 /* materials_xingqiu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xingqiu.json; sourceTree = "<group>"; };
+		D9D5C52E27B7A6DE00CCE956 /* materials_xinyan.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xinyan.json; sourceTree = "<group>"; };
+		D9D5C52F27B7A6DE00CCE956 /* stats_aloy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_aloy.json; sourceTree = "<group>"; };
+		D9D5C53027B7A6DE00CCE956 /* stats_kujou_sara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kujou_sara.json; sourceTree = "<group>"; };
+		D9D5C53127B7A6DE00CCE956 /* stats_raiden_shogun.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_raiden_shogun.json; sourceTree = "<group>"; };
+		D9D5C53227B7A6DE00CCE956 /* stats_yanfei.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_yanfei.json; sourceTree = "<group>"; };
+		D9D5C53327B7A6DF00CCE956 /* stats_xinyan.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xinyan.json; sourceTree = "<group>"; };
+		D9D5C53427B7A6DF00CCE956 /* materials_sayu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sayu.json; sourceTree = "<group>"; };
+		D9D5C53527B7A6DF00CCE956 /* materials_arataki_itto.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_arataki_itto.json; sourceTree = "<group>"; };
+		D9D5C53627B7A6DF00CCE956 /* stats_ningguang.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_ningguang.json; sourceTree = "<group>"; };
+		D9D5C53727B7A6DF00CCE956 /* materials_tartaglia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_tartaglia.json; sourceTree = "<group>"; };
+		D9D5C53827B7A6DF00CCE956 /* materials_thoma.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_thoma.json; sourceTree = "<group>"; };
+		D9D5C53927B7A6DF00CCE956 /* materials_bennett.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_bennett.json; sourceTree = "<group>"; };
+		D9D5C53A27B7A6DF00CCE956 /* stats_barbara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_barbara.json; sourceTree = "<group>"; };
+		D9D5C53B27B7A6DF00CCE956 /* stats_kaeya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kaeya.json; sourceTree = "<group>"; };
+		D9D5C53C27B7A6DF00CCE956 /* stats_arataki_itto.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_arataki_itto.json; sourceTree = "<group>"; };
+		D9D5C53D27B7A6DF00CCE956 /* stats_sayu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_sayu.json; sourceTree = "<group>"; };
+		D9D5C53E27B7A6DF00CCE956 /* materials_jean.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_jean.json; sourceTree = "<group>"; };
+		D9D5C53F27B7A6DF00CCE956 /* materials_xiangling.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_xiangling.json; sourceTree = "<group>"; };
+		D9D5C54027B7A6DF00CCE956 /* stats_beidou.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_beidou.json; sourceTree = "<group>"; };
+		D9D5C54127B7A6DF00CCE956 /* stats_kamisato_ayaka.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_kamisato_ayaka.json; sourceTree = "<group>"; };
+		D9D5C54227B7A6DF00CCE956 /* stats_keqing.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_keqing.json; sourceTree = "<group>"; };
+		D9D5C54327B7A6DF00CCE956 /* materials_kamisato_ayaka.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kamisato_ayaka.json; sourceTree = "<group>"; };
+		D9D5C54427B7A6DF00CCE956 /* stats_hu_tao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_hu_tao.json; sourceTree = "<group>"; };
+		D9D5C54527B7A6DF00CCE956 /* urls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = urls.json; sourceTree = "<group>"; };
+		D9D5C54627B7A6DF00CCE956 /* materials_noelle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_noelle.json; sourceTree = "<group>"; };
+		D9D5C54727B7A6DF00CCE956 /* stats_albedo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_albedo.json; sourceTree = "<group>"; };
+		D9D5C54827B7A6DF00CCE956 /* stats_diona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_diona.json; sourceTree = "<group>"; };
+		D9D5C54927B7A6DF00CCE956 /* stats_razor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_razor.json; sourceTree = "<group>"; };
+		D9D5C54A27B7A6DF00CCE956 /* stats_yoimiya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_yoimiya.json; sourceTree = "<group>"; };
+		D9D5C54B27B7A6DF00CCE956 /* stats_traveler.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_traveler.json; sourceTree = "<group>"; };
+		D9D5C54C27B7A6DF00CCE956 /* materials_razor.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_razor.json; sourceTree = "<group>"; };
+		D9D5C54D27B7A6DF00CCE956 /* stats_mona.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_mona.json; sourceTree = "<group>"; };
+		D9D5C54E27B7A6E000CCE956 /* materials_ningguang.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_ningguang.json; sourceTree = "<group>"; };
+		D9D5C54F27B7A6E000CCE956 /* materials_yoimiya.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_yoimiya.json; sourceTree = "<group>"; };
+		D9D5C55027B7A6E000CCE956 /* stats_eula.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_eula.json; sourceTree = "<group>"; };
+		D9D5C55127B7A6E000CCE956 /* materials_kujou_sara.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_kujou_sara.json; sourceTree = "<group>"; };
+		D9D5C55227B7A6E000CCE956 /* stats_shenhe.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_shenhe.json; sourceTree = "<group>"; };
+		D9D5C55327B7A6E000CCE956 /* materials_ganyu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_ganyu.json; sourceTree = "<group>"; };
+		D9D5C55427B7A6E000CCE956 /* stats_sucrose.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_sucrose.json; sourceTree = "<group>"; };
+		D9D5C55527B7A6E000CCE956 /* materials_klee.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_klee.json; sourceTree = "<group>"; };
+		D9D5C55627B7A6E000CCE956 /* stats_xiao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xiao.json; sourceTree = "<group>"; };
+		D9D5C55727B7A6E000CCE956 /* stats_zhongli.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_zhongli.json; sourceTree = "<group>"; };
+		D9D5C55827B7A6E000CCE956 /* materials_yanfei.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_yanfei.json; sourceTree = "<group>"; };
+		D9D5C55927B7A6E000CCE956 /* stats_yun_jin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_yun_jin.json; sourceTree = "<group>"; };
+		D9D5C55A27B7A6E000CCE956 /* materials_hu_tao.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_hu_tao.json; sourceTree = "<group>"; };
+		D9D5C55B27B7A6E000CCE956 /* stats_fischl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_fischl.json; sourceTree = "<group>"; };
+		D9D5C55C27B7A6E000CCE956 /* stats_ganyu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_ganyu.json; sourceTree = "<group>"; };
+		D9D5C55D27B7A6E000CCE956 /* stats_noelle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_noelle.json; sourceTree = "<group>"; };
+		D9D5C55E27B7A6E000CCE956 /* materials_zhongli.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_zhongli.json; sourceTree = "<group>"; };
+		D9D5C55F27B7A6E000CCE956 /* stats_klee.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_klee.json; sourceTree = "<group>"; };
+		D9D5C61C27B7A70700CCE956 /* bio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bio.json; sourceTree = "<group>"; };
 		D9D5F52E27A5542200834035 /* GenshinDigitsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenshinDigitsApp.swift; sourceTree = "<group>"; };
 		D9D5F53527A5542300834035 /* GenshinDigits.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GenshinDigits.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9D5F53B27A5542300834035 /* GenshinDigits.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GenshinDigits.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -418,115 +421,6 @@
 			path = viewModel;
 			sourceTree = "<group>";
 		};
-		D9B7B41127A565360015C2C1 /* dataBase */ = {
-			isa = PBXGroup;
-			children = (
-				D9B7B41227A565360015C2C1 /* json */,
-			);
-			name = dataBase;
-			path = ../dataBase;
-			sourceTree = SOURCE_ROOT;
-		};
-		D9B7B41227A565360015C2C1 /* json */ = {
-			isa = PBXGroup;
-			children = (
-				D923621327B65CEB00718766 /* bio.json */,
-				D923622327B65CEB00718766 /* materials_albedo.json */,
-				D923625927B65CEC00718766 /* materials_aloy.json */,
-				D923622627B65CEB00718766 /* materials_amber.json */,
-				D923625527B65CEC00718766 /* materials_arataki_itto.json */,
-				D923621927B65CEB00718766 /* materials_barbara.json */,
-				D923622727B65CEB00718766 /* materials_beidou.json */,
-				D923625727B65CEC00718766 /* materials_bennett.json */,
-				D923620A27B65CEB00718766 /* materials_chongyun.json */,
-				D923621627B65CEB00718766 /* materials_diluc.json */,
-				D923623C27B65CEC00718766 /* materials_diona.json */,
-				D923624D27B65CEC00718766 /* materials_eula.json */,
-				D923622427B65CEB00718766 /* materials_fischl.json */,
-				D923625027B65CEC00718766 /* materials_ganyu.json */,
-				D923623127B65CEB00718766 /* materials_gorou.json */,
-				D923624E27B65CEC00718766 /* materials_hu_tao.json */,
-				D923623727B65CEC00718766 /* materials_jean.json */,
-				D923622F27B65CEB00718766 /* materials_kaedehara_kazuha.json */,
-				D923623E27B65CEC00718766 /* materials_kaeya.json */,
-				D923625327B65CEC00718766 /* materials_kamisato_ayaka.json */,
-				D923625827B65CEC00718766 /* materials_keqing.json */,
-				D923623A27B65CEC00718766 /* materials_klee.json */,
-				D923620727B65CEB00718766 /* materials_kujou_sara.json */,
-				D923621C27B65CEB00718766 /* materials_lisa.json */,
-				D923623B27B65CEC00718766 /* materials_mona.json */,
-				D923623F27B65CEC00718766 /* materials_ningguang.json */,
-				D923624327B65CEC00718766 /* materials_noelle.json */,
-				D923624427B65CEC00718766 /* materials_qiqi.json */,
-				D923624927B65CEC00718766 /* materials_raiden_shogun.json */,
-				D923626127B65CEC00718766 /* materials_razor.json */,
-				D923622127B65CEB00718766 /* materials_rosaria.json */,
-				D923626227B65CEC00718766 /* materials_sangonomiya_kokomi.json */,
-				D923624727B65CEC00718766 /* materials_sayu.json */,
-				D923621A27B65CEB00718766 /* materials_shenhe.json */,
-				D923625F27B65CEC00718766 /* materials_sucrose.json */,
-				D923622A27B65CEB00718766 /* materials_tartaglia.json */,
-				D923621B27B65CEB00718766 /* materials_thoma.json */,
-				D923621727B65CEB00718766 /* materials_traveler.json */,
-				D923621F27B65CEB00718766 /* materials_venti.json */,
-				D923625427B65CEC00718766 /* materials_xiangling.json */,
-				D923621827B65CEB00718766 /* materials_xiao.json */,
-				D923623527B65CEB00718766 /* materials_xingqiu.json */,
-				D923625627B65CEC00718766 /* materials_xinyan.json */,
-				D923623427B65CEB00718766 /* materials_yanfei.json */,
-				D923621427B65CEB00718766 /* materials_yoimiya.json */,
-				D923622027B65CEB00718766 /* materials_yun_jin.json */,
-				D923621527B65CEB00718766 /* materials_zhongli.json */,
-				D923625127B65CEC00718766 /* stats_albedo.json */,
-				D923624827B65CEC00718766 /* stats_aloy.json */,
-				D923624127B65CEC00718766 /* stats_amber.json */,
-				D923622D27B65CEB00718766 /* stats_arataki_itto.json */,
-				D923620D27B65CEB00718766 /* stats_barbara.json */,
-				D923622E27B65CEB00718766 /* stats_beidou.json */,
-				D923624A27B65CEC00718766 /* stats_bennett.json */,
-				D923623627B65CEB00718766 /* stats_chongyun.json */,
-				D923625E27B65CEC00718766 /* stats_diluc.json */,
-				D923624227B65CEC00718766 /* stats_diona.json */,
-				D923623227B65CEB00718766 /* stats_eula.json */,
-				D923621D27B65CEB00718766 /* stats_fischl.json */,
-				D923620827B65CEB00718766 /* stats_ganyu.json */,
-				D923625B27B65CEC00718766 /* stats_gorou.json */,
-				D923622227B65CEB00718766 /* stats_hu_tao.json */,
-				D923620627B65CEB00718766 /* stats_jean.json */,
-				D923624027B65CEC00718766 /* stats_kaedehara_kazuha.json */,
-				D923624527B65CEC00718766 /* stats_kaeya.json */,
-				D923624627B65CEC00718766 /* stats_kamisato_ayaka.json */,
-				D923621E27B65CEB00718766 /* stats_keqing.json */,
-				D923624F27B65CEC00718766 /* stats_klee.json */,
-				D923622527B65CEB00718766 /* stats_kujou_sara.json */,
-				D923625A27B65CEC00718766 /* stats_lisa.json */,
-				D923623027B65CEB00718766 /* stats_mona.json */,
-				D923622827B65CEB00718766 /* stats_ningguang.json */,
-				D923620E27B65CEB00718766 /* stats_noelle.json */,
-				D923622927B65CEB00718766 /* stats_qiqi.json */,
-				D923626027B65CEC00718766 /* stats_raiden_shogun.json */,
-				D923621227B65CEB00718766 /* stats_razor.json */,
-				D923623327B65CEB00718766 /* stats_rosaria.json */,
-				D923620927B65CEB00718766 /* stats_sangonomiya_kokomi.json */,
-				D923623827B65CEC00718766 /* stats_sayu.json */,
-				D923620F27B65CEB00718766 /* stats_shenhe.json */,
-				D923621027B65CEB00718766 /* stats_sucrose.json */,
-				D923620B27B65CEB00718766 /* stats_tartaglia.json */,
-				D923624C27B65CEC00718766 /* stats_thoma.json */,
-				D923624B27B65CEC00718766 /* stats_traveler.json */,
-				D923622C27B65CEB00718766 /* stats_venti.json */,
-				D923625227B65CEC00718766 /* stats_xiangling.json */,
-				D923620C27B65CEB00718766 /* stats_xiao.json */,
-				D923623D27B65CEC00718766 /* stats_xingqiu.json */,
-				D923625C27B65CEC00718766 /* stats_xinyan.json */,
-				D923623927B65CEC00718766 /* stats_yanfei.json */,
-				D923625D27B65CEC00718766 /* stats_yoimiya.json */,
-				D923621127B65CEB00718766 /* stats_yun_jin.json */,
-				D923622B27B65CEB00718766 /* stats_zhongli.json */,
-			);
-			path = json;
-			sourceTree = "<group>";
-		};
 		D9B7B43E27A5999B0015C2C1 /* views */ = {
 			isa = PBXGroup;
 			children = (
@@ -565,12 +459,113 @@
 			path = utility;
 			sourceTree = "<group>";
 		};
+		D9D5C50127B7A6BB00CCE956 /* dataBase */ = {
+			isa = PBXGroup;
+			children = (
+				D9D5C61C27B7A70700CCE956 /* bio.json */,
+				D9D5C51F27B7A6DE00CCE956 /* materials_albedo.json */,
+				D9D5C50D27B7A6DD00CCE956 /* materials_aloy.json */,
+				D9D5C52827B7A6DE00CCE956 /* materials_amber.json */,
+				D9D5C53527B7A6DF00CCE956 /* materials_arataki_itto.json */,
+				D9D5C51427B7A6DE00CCE956 /* materials_barbara.json */,
+				D9D5C50E27B7A6DD00CCE956 /* materials_beidou.json */,
+				D9D5C53927B7A6DF00CCE956 /* materials_bennett.json */,
+				D9D5C51927B7A6DE00CCE956 /* materials_chongyun.json */,
+				D9D5C51E27B7A6DE00CCE956 /* materials_diluc.json */,
+				D9D5C51D27B7A6DE00CCE956 /* materials_diona.json */,
+				D9D5C51227B7A6DD00CCE956 /* materials_eula.json */,
+				D9D5C50A27B7A6DD00CCE956 /* materials_fischl.json */,
+				D9D5C55327B7A6E000CCE956 /* materials_ganyu.json */,
+				D9D5C50927B7A6DD00CCE956 /* materials_gorou.json */,
+				D9D5C55A27B7A6E000CCE956 /* materials_hu_tao.json */,
+				D9D5C53E27B7A6DF00CCE956 /* materials_jean.json */,
+				D9D5C50B27B7A6DD00CCE956 /* materials_kaedehara_kazuha.json */,
+				D9D5C50827B7A6DD00CCE956 /* materials_kaeya.json */,
+				D9D5C54327B7A6DF00CCE956 /* materials_kamisato_ayaka.json */,
+				D9D5C52C27B7A6DE00CCE956 /* materials_keqing.json */,
+				D9D5C55527B7A6E000CCE956 /* materials_klee.json */,
+				D9D5C55127B7A6E000CCE956 /* materials_kujou_sara.json */,
+				D9D5C51327B7A6DD00CCE956 /* materials_lisa.json */,
+				D9D5C50C27B7A6DD00CCE956 /* materials_mona.json */,
+				D9D5C54E27B7A6E000CCE956 /* materials_ningguang.json */,
+				D9D5C54627B7A6DF00CCE956 /* materials_noelle.json */,
+				D9D5C52727B7A6DE00CCE956 /* materials_qiqi.json */,
+				D9D5C51127B7A6DD00CCE956 /* materials_raiden_shogun.json */,
+				D9D5C54C27B7A6DF00CCE956 /* materials_razor.json */,
+				D9D5C50727B7A6DD00CCE956 /* materials_rosaria.json */,
+				D9D5C50427B7A6DD00CCE956 /* materials_sangonomiya_kokomi.json */,
+				D9D5C53427B7A6DF00CCE956 /* materials_sayu.json */,
+				D9D5C51627B7A6DE00CCE956 /* materials_shenhe.json */,
+				D9D5C50327B7A6DD00CCE956 /* materials_sucrose.json */,
+				D9D5C53727B7A6DF00CCE956 /* materials_tartaglia.json */,
+				D9D5C53827B7A6DF00CCE956 /* materials_thoma.json */,
+				D9D5C52127B7A6DE00CCE956 /* materials_traveler.json */,
+				D9D5C52027B7A6DE00CCE956 /* materials_venti.json */,
+				D9D5C53F27B7A6DF00CCE956 /* materials_xiangling.json */,
+				D9D5C52627B7A6DE00CCE956 /* materials_xiao.json */,
+				D9D5C52D27B7A6DE00CCE956 /* materials_xingqiu.json */,
+				D9D5C52E27B7A6DE00CCE956 /* materials_xinyan.json */,
+				D9D5C55827B7A6E000CCE956 /* materials_yanfei.json */,
+				D9D5C54F27B7A6E000CCE956 /* materials_yoimiya.json */,
+				D9D5C51527B7A6DE00CCE956 /* materials_yun_jin.json */,
+				D9D5C55E27B7A6E000CCE956 /* materials_zhongli.json */,
+				D9D5C54727B7A6DF00CCE956 /* stats_albedo.json */,
+				D9D5C52F27B7A6DE00CCE956 /* stats_aloy.json */,
+				D9D5C51B27B7A6DE00CCE956 /* stats_amber.json */,
+				D9D5C53C27B7A6DF00CCE956 /* stats_arataki_itto.json */,
+				D9D5C53A27B7A6DF00CCE956 /* stats_barbara.json */,
+				D9D5C54027B7A6DF00CCE956 /* stats_beidou.json */,
+				D9D5C50F27B7A6DD00CCE956 /* stats_bennett.json */,
+				D9D5C51727B7A6DE00CCE956 /* stats_chongyun.json */,
+				D9D5C52927B7A6DE00CCE956 /* stats_diluc.json */,
+				D9D5C54827B7A6DF00CCE956 /* stats_diona.json */,
+				D9D5C55027B7A6E000CCE956 /* stats_eula.json */,
+				D9D5C55B27B7A6E000CCE956 /* stats_fischl.json */,
+				D9D5C55C27B7A6E000CCE956 /* stats_ganyu.json */,
+				D9D5C52427B7A6DE00CCE956 /* stats_gorou.json */,
+				D9D5C54427B7A6DF00CCE956 /* stats_hu_tao.json */,
+				D9D5C51027B7A6DD00CCE956 /* stats_jean.json */,
+				D9D5C52227B7A6DE00CCE956 /* stats_kaedehara_kazuha.json */,
+				D9D5C53B27B7A6DF00CCE956 /* stats_kaeya.json */,
+				D9D5C54127B7A6DF00CCE956 /* stats_kamisato_ayaka.json */,
+				D9D5C54227B7A6DF00CCE956 /* stats_keqing.json */,
+				D9D5C55F27B7A6E000CCE956 /* stats_klee.json */,
+				D9D5C53027B7A6DE00CCE956 /* stats_kujou_sara.json */,
+				D9D5C50527B7A6DD00CCE956 /* stats_lisa.json */,
+				D9D5C54D27B7A6DF00CCE956 /* stats_mona.json */,
+				D9D5C53627B7A6DF00CCE956 /* stats_ningguang.json */,
+				D9D5C55D27B7A6E000CCE956 /* stats_noelle.json */,
+				D9D5C51C27B7A6DE00CCE956 /* stats_qiqi.json */,
+				D9D5C53127B7A6DE00CCE956 /* stats_raiden_shogun.json */,
+				D9D5C54927B7A6DF00CCE956 /* stats_razor.json */,
+				D9D5C52A27B7A6DE00CCE956 /* stats_rosaria.json */,
+				D9D5C50627B7A6DD00CCE956 /* stats_sangonomiya_kokomi.json */,
+				D9D5C53D27B7A6DF00CCE956 /* stats_sayu.json */,
+				D9D5C55227B7A6E000CCE956 /* stats_shenhe.json */,
+				D9D5C55427B7A6E000CCE956 /* stats_sucrose.json */,
+				D9D5C52327B7A6DE00CCE956 /* stats_tartaglia.json */,
+				D9D5C52527B7A6DE00CCE956 /* stats_thoma.json */,
+				D9D5C54B27B7A6DF00CCE956 /* stats_traveler.json */,
+				D9D5C51827B7A6DE00CCE956 /* stats_venti.json */,
+				D9D5C52B27B7A6DE00CCE956 /* stats_xiangling.json */,
+				D9D5C55627B7A6E000CCE956 /* stats_xiao.json */,
+				D9D5C50227B7A6DD00CCE956 /* stats_xingqiu.json */,
+				D9D5C53327B7A6DF00CCE956 /* stats_xinyan.json */,
+				D9D5C53227B7A6DE00CCE956 /* stats_yanfei.json */,
+				D9D5C54A27B7A6DF00CCE956 /* stats_yoimiya.json */,
+				D9D5C55927B7A6E000CCE956 /* stats_yun_jin.json */,
+				D9D5C55727B7A6E000CCE956 /* stats_zhongli.json */,
+				D9D5C54527B7A6DF00CCE956 /* urls.json */,
+			);
+			path = dataBase;
+			sourceTree = "<group>";
+		};
 		D9D5F52827A5542200834035 = {
 			isa = PBXGroup;
 			children = (
 				D9D5F52D27A5542200834035 /* shared */,
 				D9D5F53C27A5542300834035 /* macOS */,
-				D9B7B41127A565360015C2C1 /* dataBase */,
+				D9D5C50127B7A6BB00CCE956 /* dataBase */,
 				D9D5F54527A5542300834035 /* Tests iOS */,
 				D9D5F55127A5542300834035 /* Tests macOS */,
 				D9D5F53627A5542300834035 /* Products */,
@@ -772,100 +767,101 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D92362CD27B65CEC00718766 /* materials_mona.json in Resources */,
-				D92362F127B65CEC00718766 /* materials_eula.json in Resources */,
-				D92362C327B65CEC00718766 /* stats_chongyun.json in Resources */,
-				D923629727B65CEC00718766 /* materials_yun_jin.json in Resources */,
-				D923627F27B65CEC00718766 /* materials_yoimiya.json in Resources */,
-				D923627727B65CEC00718766 /* stats_sucrose.json in Resources */,
-				D923628927B65CEC00718766 /* materials_barbara.json in Resources */,
-				D923630927B65CEC00718766 /* materials_aloy.json in Resources */,
-				D92362D527B65CEC00718766 /* materials_ningguang.json in Resources */,
-				D92362E127B65CEC00718766 /* stats_kaeya.json in Resources */,
-				D92362EB27B65CEC00718766 /* stats_bennett.json in Resources */,
-				D92362A727B65CEC00718766 /* stats_ningguang.json in Resources */,
-				D92362A927B65CEC00718766 /* stats_qiqi.json in Resources */,
-				D923629927B65CEC00718766 /* materials_rosaria.json in Resources */,
-				D92362BD27B65CEC00718766 /* stats_rosaria.json in Resources */,
-				D923631527B65CEC00718766 /* materials_sucrose.json in Resources */,
-				D92362AD27B65CEC00718766 /* stats_zhongli.json in Resources */,
-				D923627327B65CEC00718766 /* stats_noelle.json in Resources */,
-				D923630527B65CEC00718766 /* materials_bennett.json in Resources */,
-				D92362E727B65CEC00718766 /* stats_aloy.json in Resources */,
-				D92362A327B65CEC00718766 /* materials_amber.json in Resources */,
-				D92362FF27B65CEC00718766 /* materials_xiangling.json in Resources */,
-				D92362A127B65CEC00718766 /* stats_kujou_sara.json in Resources */,
-				D923630727B65CEC00718766 /* materials_keqing.json in Resources */,
-				D923631327B65CEC00718766 /* stats_diluc.json in Resources */,
-				D92362AB27B65CEC00718766 /* materials_tartaglia.json in Resources */,
-				D92362DF27B65CEC00718766 /* materials_qiqi.json in Resources */,
-				D92362F727B65CEC00718766 /* materials_ganyu.json in Resources */,
-				D92362B527B65CEC00718766 /* materials_kaedehara_kazuha.json in Resources */,
-				D92362C727B65CEC00718766 /* stats_sayu.json in Resources */,
-				D923628127B65CEC00718766 /* materials_zhongli.json in Resources */,
-				D92362EF27B65CEC00718766 /* stats_thoma.json in Resources */,
-				D923630327B65CEC00718766 /* materials_xinyan.json in Resources */,
-				D923628327B65CEC00718766 /* materials_diluc.json in Resources */,
-				D92362B127B65CEC00718766 /* stats_arataki_itto.json in Resources */,
-				D923626927B65CEC00718766 /* stats_sangonomiya_kokomi.json in Resources */,
-				D92362A527B65CEC00718766 /* materials_beidou.json in Resources */,
-				D92362DD27B65CEC00718766 /* materials_noelle.json in Resources */,
-				D92362BB27B65CEC00718766 /* stats_eula.json in Resources */,
-				D92362C127B65CEC00718766 /* materials_xingqiu.json in Resources */,
-				D92362D327B65CEC00718766 /* materials_kaeya.json in Resources */,
-				D923629127B65CEC00718766 /* stats_fischl.json in Resources */,
-				D92362F527B65CEC00718766 /* stats_klee.json in Resources */,
-				D923629D27B65CEC00718766 /* materials_albedo.json in Resources */,
-				D92362B727B65CEC00718766 /* stats_mona.json in Resources */,
-				D923628D27B65CEC00718766 /* materials_thoma.json in Resources */,
-				D923626B27B65CEC00718766 /* materials_chongyun.json in Resources */,
-				D92362AF27B65CEC00718766 /* stats_venti.json in Resources */,
-				D92362CB27B65CEC00718766 /* materials_klee.json in Resources */,
-				D92362BF27B65CEC00718766 /* materials_yanfei.json in Resources */,
-				D92362FB27B65CEC00718766 /* stats_xiangling.json in Resources */,
-				D92362D127B65CEC00718766 /* stats_xingqiu.json in Resources */,
+				D9D5C57227B7A6E000CCE956 /* materials_kaedehara_kazuha.json in Resources */,
+				D9D5C58027B7A6E000CCE956 /* materials_eula.json in Resources */,
+				D9D5C5A427B7A6E000CCE956 /* stats_gorou.json in Resources */,
+				D9D5C5A627B7A6E000CCE956 /* stats_thoma.json in Resources */,
+				D9D5C5F227B7A6E000CCE956 /* stats_traveler.json in Resources */,
+				D9D5C56C27B7A6E000CCE956 /* materials_kaeya.json in Resources */,
+				D9D5C59C27B7A6E000CCE956 /* materials_venti.json in Resources */,
+				D9D5C56427B7A6E000CCE956 /* materials_sangonomiya_kokomi.json in Resources */,
+				D9D5C61D27B7A70700CCE956 /* bio.json in Resources */,
+				D9D5C5C227B7A6E000CCE956 /* stats_xinyan.json in Resources */,
+				D9D5C60227B7A6E000CCE956 /* materials_ganyu.json in Resources */,
+				D9D5C58C27B7A6E000CCE956 /* stats_venti.json in Resources */,
+				D9D5C5A027B7A6E000CCE956 /* stats_kaedehara_kazuha.json in Resources */,
+				D9D5C5CA27B7A6E000CCE956 /* materials_tartaglia.json in Resources */,
+				D9D5C57C27B7A6E000CCE956 /* stats_jean.json in Resources */,
+				D9D5C5AA27B7A6E000CCE956 /* materials_qiqi.json in Resources */,
+				D9D5C58A27B7A6E000CCE956 /* stats_chongyun.json in Resources */,
+				D9D5C5AC27B7A6E000CCE956 /* materials_amber.json in Resources */,
+				D9D5C5E227B7A6E000CCE956 /* materials_kamisato_ayaka.json in Resources */,
+				D9D5C59627B7A6E000CCE956 /* materials_diona.json in Resources */,
+				D9D5C57E27B7A6E000CCE956 /* materials_raiden_shogun.json in Resources */,
+				D9D5C5BC27B7A6E000CCE956 /* stats_kujou_sara.json in Resources */,
+				D9D5C57A27B7A6E000CCE956 /* stats_bennett.json in Resources */,
+				D9D5C59A27B7A6E000CCE956 /* materials_albedo.json in Resources */,
+				D9D5C60027B7A6E000CCE956 /* stats_shenhe.json in Resources */,
+				D9D5C60827B7A6E000CCE956 /* stats_xiao.json in Resources */,
+				D9D5C60427B7A6E000CCE956 /* stats_sucrose.json in Resources */,
+				D9D5C5D827B7A6E000CCE956 /* materials_jean.json in Resources */,
+				D9D5C59827B7A6E000CCE956 /* materials_diluc.json in Resources */,
+				D9D5C5C027B7A6E000CCE956 /* stats_yanfei.json in Resources */,
+				D9D5C5B227B7A6E000CCE956 /* stats_xiangling.json in Resources */,
+				D9D5C5C827B7A6E000CCE956 /* stats_ningguang.json in Resources */,
+				D9D5C5FA27B7A6E000CCE956 /* materials_yoimiya.json in Resources */,
+				D9D5C57427B7A6E000CCE956 /* materials_mona.json in Resources */,
+				D9D5C58227B7A6E000CCE956 /* materials_lisa.json in Resources */,
+				D9D5C60C27B7A6E000CCE956 /* materials_yanfei.json in Resources */,
+				D9D5C58627B7A6E000CCE956 /* materials_yun_jin.json in Resources */,
+				D9D5C5EE27B7A6E000CCE956 /* stats_razor.json in Resources */,
+				D9D5C59E27B7A6E000CCE956 /* materials_traveler.json in Resources */,
+				D9D5C5E627B7A6E000CCE956 /* urls.json in Resources */,
+				D9D5C57827B7A6E000CCE956 /* materials_beidou.json in Resources */,
+				D9D5C5FE27B7A6E000CCE956 /* materials_kujou_sara.json in Resources */,
+				D9D5C5B627B7A6E000CCE956 /* materials_xingqiu.json in Resources */,
+				D9D5C61427B7A6E000CCE956 /* stats_ganyu.json in Resources */,
+				D9D5C5CC27B7A6E000CCE956 /* materials_thoma.json in Resources */,
+				D9D5C5A227B7A6E000CCE956 /* stats_tartaglia.json in Resources */,
+				D9D5C5AE27B7A6E000CCE956 /* stats_diluc.json in Resources */,
+				D9D5C5B827B7A6E000CCE956 /* materials_xinyan.json in Resources */,
+				D9D5C5F827B7A6E000CCE956 /* materials_ningguang.json in Resources */,
+				D9D5C61827B7A6E000CCE956 /* materials_zhongli.json in Resources */,
+				D9D5C60A27B7A6E000CCE956 /* stats_zhongli.json in Resources */,
+				D9D5C5E827B7A6E000CCE956 /* materials_noelle.json in Resources */,
+				D9D5C58427B7A6E000CCE956 /* materials_barbara.json in Resources */,
+				D9D5C5DE27B7A6E000CCE956 /* stats_kamisato_ayaka.json in Resources */,
+				D9D5C56A27B7A6E000CCE956 /* materials_rosaria.json in Resources */,
+				D9D5C61A27B7A6E000CCE956 /* stats_klee.json in Resources */,
+				D9D5C5B027B7A6E000CCE956 /* stats_rosaria.json in Resources */,
+				D9D5C56627B7A6E000CCE956 /* stats_lisa.json in Resources */,
+				D9D5C56E27B7A6E000CCE956 /* materials_gorou.json in Resources */,
+				D9D5C5BE27B7A6E000CCE956 /* stats_raiden_shogun.json in Resources */,
 				D9275FE927AEE15500B3F854 /* Assets.xcassets in Resources */,
-				D923626527B65CEC00718766 /* materials_kujou_sara.json in Resources */,
-				D923628727B65CEC00718766 /* materials_xiao.json in Resources */,
-				D923631127B65CEC00718766 /* stats_yoimiya.json in Resources */,
-				D923629527B65CEC00718766 /* materials_venti.json in Resources */,
-				D923630F27B65CEC00718766 /* stats_xinyan.json in Resources */,
-				D923630127B65CEC00718766 /* materials_arataki_itto.json in Resources */,
-				D92362ED27B65CEC00718766 /* stats_traveler.json in Resources */,
-				D923626727B65CEC00718766 /* stats_ganyu.json in Resources */,
-				D923628F27B65CEC00718766 /* materials_lisa.json in Resources */,
-				D923629B27B65CEC00718766 /* stats_hu_tao.json in Resources */,
-				D92362D927B65CEC00718766 /* stats_amber.json in Resources */,
-				D92362B327B65CEC00718766 /* stats_beidou.json in Resources */,
-				D923627927B65CEC00718766 /* stats_yun_jin.json in Resources */,
-				D92362F327B65CEC00718766 /* materials_hu_tao.json in Resources */,
-				D923629327B65CEC00718766 /* stats_keqing.json in Resources */,
-				D923627D27B65CEC00718766 /* bio.json in Resources */,
-				D923631727B65CEC00718766 /* stats_raiden_shogun.json in Resources */,
-				D92362E527B65CEC00718766 /* materials_sayu.json in Resources */,
-				D923629F27B65CEC00718766 /* materials_fischl.json in Resources */,
-				D92362F927B65CEC00718766 /* stats_albedo.json in Resources */,
-				D92362E927B65CEC00718766 /* materials_raiden_shogun.json in Resources */,
-				D923626D27B65CEC00718766 /* stats_tartaglia.json in Resources */,
-				D923626F27B65CEC00718766 /* stats_xiao.json in Resources */,
-				D92362E327B65CEC00718766 /* stats_kamisato_ayaka.json in Resources */,
-				D923627B27B65CEC00718766 /* stats_razor.json in Resources */,
-				D923628527B65CEC00718766 /* materials_traveler.json in Resources */,
-				D923630D27B65CEC00718766 /* stats_gorou.json in Resources */,
-				D92362D727B65CEC00718766 /* stats_kaedehara_kazuha.json in Resources */,
-				D92362FD27B65CEC00718766 /* materials_kamisato_ayaka.json in Resources */,
-				D92362CF27B65CEC00718766 /* materials_diona.json in Resources */,
-				D92362C927B65CEC00718766 /* stats_yanfei.json in Resources */,
-				D923630B27B65CEC00718766 /* stats_lisa.json in Resources */,
-				D92362B927B65CEC00718766 /* materials_gorou.json in Resources */,
-				D92362C527B65CEC00718766 /* materials_jean.json in Resources */,
-				D92362DB27B65CEC00718766 /* stats_diona.json in Resources */,
-				D923626327B65CEC00718766 /* stats_jean.json in Resources */,
-				D923631B27B65CEC00718766 /* materials_sangonomiya_kokomi.json in Resources */,
-				D923627127B65CEC00718766 /* stats_barbara.json in Resources */,
-				D923631927B65CEC00718766 /* materials_razor.json in Resources */,
-				D923627527B65CEC00718766 /* stats_shenhe.json in Resources */,
-				D923628B27B65CEC00718766 /* materials_shenhe.json in Resources */,
+				D9D5C56827B7A6E000CCE956 /* stats_sangonomiya_kokomi.json in Resources */,
+				D9D5C5E027B7A6E000CCE956 /* stats_keqing.json in Resources */,
+				D9D5C57027B7A6E000CCE956 /* materials_fischl.json in Resources */,
+				D9D5C61027B7A6E000CCE956 /* materials_hu_tao.json in Resources */,
+				D9D5C5D027B7A6E000CCE956 /* stats_barbara.json in Resources */,
+				D9D5C5A827B7A6E000CCE956 /* materials_xiao.json in Resources */,
+				D9D5C5C627B7A6E000CCE956 /* materials_arataki_itto.json in Resources */,
+				D9D5C5E427B7A6E000CCE956 /* stats_hu_tao.json in Resources */,
+				D9D5C59227B7A6E000CCE956 /* stats_amber.json in Resources */,
+				D9D5C5D627B7A6E000CCE956 /* stats_sayu.json in Resources */,
+				D9D5C5FC27B7A6E000CCE956 /* stats_eula.json in Resources */,
+				D9D5C5DA27B7A6E000CCE956 /* materials_xiangling.json in Resources */,
+				D9D5C5F427B7A6E000CCE956 /* materials_razor.json in Resources */,
+				D9D5C5BA27B7A6E000CCE956 /* stats_aloy.json in Resources */,
+				D9D5C5B427B7A6E000CCE956 /* materials_keqing.json in Resources */,
+				D9D5C5EA27B7A6E000CCE956 /* stats_albedo.json in Resources */,
+				D9D5C60E27B7A6E000CCE956 /* stats_yun_jin.json in Resources */,
+				D9D5C61227B7A6E000CCE956 /* stats_fischl.json in Resources */,
+				D9D5C57627B7A6E000CCE956 /* materials_aloy.json in Resources */,
+				D9D5C56227B7A6E000CCE956 /* materials_sucrose.json in Resources */,
+				D9D5C56027B7A6E000CCE956 /* stats_xingqiu.json in Resources */,
+				D9D5C59427B7A6E000CCE956 /* stats_qiqi.json in Resources */,
+				D9D5C58827B7A6E000CCE956 /* materials_shenhe.json in Resources */,
+				D9D5C61627B7A6E000CCE956 /* stats_noelle.json in Resources */,
+				D9D5C5EC27B7A6E000CCE956 /* stats_diona.json in Resources */,
+				D9D5C5C427B7A6E000CCE956 /* materials_sayu.json in Resources */,
+				D9D5C5CE27B7A6E000CCE956 /* materials_bennett.json in Resources */,
+				D9D5C5F027B7A6E000CCE956 /* stats_yoimiya.json in Resources */,
+				D9D5C5D427B7A6E000CCE956 /* stats_arataki_itto.json in Resources */,
+				D9D5C58E27B7A6E000CCE956 /* materials_chongyun.json in Resources */,
+				D9D5C5D227B7A6E000CCE956 /* stats_kaeya.json in Resources */,
+				D9D5C5F627B7A6E000CCE956 /* stats_mona.json in Resources */,
+				D9D5C60627B7A6E000CCE956 /* materials_klee.json in Resources */,
+				D9D5C5DC27B7A6E000CCE956 /* stats_beidou.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -873,100 +869,101 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D92362CE27B65CEC00718766 /* materials_mona.json in Resources */,
-				D92362F227B65CEC00718766 /* materials_eula.json in Resources */,
-				D92362C427B65CEC00718766 /* stats_chongyun.json in Resources */,
-				D923629827B65CEC00718766 /* materials_yun_jin.json in Resources */,
-				D923628027B65CEC00718766 /* materials_yoimiya.json in Resources */,
-				D923627827B65CEC00718766 /* stats_sucrose.json in Resources */,
-				D923628A27B65CEC00718766 /* materials_barbara.json in Resources */,
-				D923630A27B65CEC00718766 /* materials_aloy.json in Resources */,
-				D92362D627B65CEC00718766 /* materials_ningguang.json in Resources */,
-				D92362E227B65CEC00718766 /* stats_kaeya.json in Resources */,
-				D92362EC27B65CEC00718766 /* stats_bennett.json in Resources */,
-				D92362A827B65CEC00718766 /* stats_ningguang.json in Resources */,
-				D92362AA27B65CEC00718766 /* stats_qiqi.json in Resources */,
-				D923629A27B65CEC00718766 /* materials_rosaria.json in Resources */,
-				D92362BE27B65CEC00718766 /* stats_rosaria.json in Resources */,
-				D923631627B65CEC00718766 /* materials_sucrose.json in Resources */,
-				D92362AE27B65CEC00718766 /* stats_zhongli.json in Resources */,
-				D923627427B65CEC00718766 /* stats_noelle.json in Resources */,
-				D923630627B65CEC00718766 /* materials_bennett.json in Resources */,
-				D92362E827B65CEC00718766 /* stats_aloy.json in Resources */,
-				D92362A427B65CEC00718766 /* materials_amber.json in Resources */,
-				D923630027B65CEC00718766 /* materials_xiangling.json in Resources */,
-				D92362A227B65CEC00718766 /* stats_kujou_sara.json in Resources */,
-				D923630827B65CEC00718766 /* materials_keqing.json in Resources */,
-				D923631427B65CEC00718766 /* stats_diluc.json in Resources */,
-				D92362AC27B65CEC00718766 /* materials_tartaglia.json in Resources */,
-				D92362E027B65CEC00718766 /* materials_qiqi.json in Resources */,
-				D92362F827B65CEC00718766 /* materials_ganyu.json in Resources */,
-				D92362B627B65CEC00718766 /* materials_kaedehara_kazuha.json in Resources */,
-				D92362C827B65CEC00718766 /* stats_sayu.json in Resources */,
-				D923628227B65CEC00718766 /* materials_zhongli.json in Resources */,
-				D92362F027B65CEC00718766 /* stats_thoma.json in Resources */,
-				D923630427B65CEC00718766 /* materials_xinyan.json in Resources */,
-				D923628427B65CEC00718766 /* materials_diluc.json in Resources */,
-				D92362B227B65CEC00718766 /* stats_arataki_itto.json in Resources */,
-				D923626A27B65CEC00718766 /* stats_sangonomiya_kokomi.json in Resources */,
-				D92362A627B65CEC00718766 /* materials_beidou.json in Resources */,
-				D92362DE27B65CEC00718766 /* materials_noelle.json in Resources */,
-				D92362BC27B65CEC00718766 /* stats_eula.json in Resources */,
-				D92362C227B65CEC00718766 /* materials_xingqiu.json in Resources */,
-				D92362D427B65CEC00718766 /* materials_kaeya.json in Resources */,
-				D923629227B65CEC00718766 /* stats_fischl.json in Resources */,
-				D92362F627B65CEC00718766 /* stats_klee.json in Resources */,
-				D923629E27B65CEC00718766 /* materials_albedo.json in Resources */,
-				D92362B827B65CEC00718766 /* stats_mona.json in Resources */,
-				D923628E27B65CEC00718766 /* materials_thoma.json in Resources */,
-				D923626C27B65CEC00718766 /* materials_chongyun.json in Resources */,
-				D92362B027B65CEC00718766 /* stats_venti.json in Resources */,
-				D92362CC27B65CEC00718766 /* materials_klee.json in Resources */,
-				D92362C027B65CEC00718766 /* materials_yanfei.json in Resources */,
-				D92362FC27B65CEC00718766 /* stats_xiangling.json in Resources */,
-				D92362D227B65CEC00718766 /* stats_xingqiu.json in Resources */,
+				D9D5C57327B7A6E000CCE956 /* materials_kaedehara_kazuha.json in Resources */,
+				D9D5C58127B7A6E000CCE956 /* materials_eula.json in Resources */,
+				D9D5C5A527B7A6E000CCE956 /* stats_gorou.json in Resources */,
+				D9D5C5A727B7A6E000CCE956 /* stats_thoma.json in Resources */,
+				D9D5C5F327B7A6E000CCE956 /* stats_traveler.json in Resources */,
+				D9D5C56D27B7A6E000CCE956 /* materials_kaeya.json in Resources */,
+				D9D5C59D27B7A6E000CCE956 /* materials_venti.json in Resources */,
+				D9D5C56527B7A6E000CCE956 /* materials_sangonomiya_kokomi.json in Resources */,
+				D9D5C61E27B7A70700CCE956 /* bio.json in Resources */,
+				D9D5C5C327B7A6E000CCE956 /* stats_xinyan.json in Resources */,
+				D9D5C60327B7A6E000CCE956 /* materials_ganyu.json in Resources */,
+				D9D5C58D27B7A6E000CCE956 /* stats_venti.json in Resources */,
+				D9D5C5A127B7A6E000CCE956 /* stats_kaedehara_kazuha.json in Resources */,
+				D9D5C5CB27B7A6E000CCE956 /* materials_tartaglia.json in Resources */,
+				D9D5C57D27B7A6E000CCE956 /* stats_jean.json in Resources */,
+				D9D5C5AB27B7A6E000CCE956 /* materials_qiqi.json in Resources */,
+				D9D5C58B27B7A6E000CCE956 /* stats_chongyun.json in Resources */,
+				D9D5C5AD27B7A6E000CCE956 /* materials_amber.json in Resources */,
+				D9D5C5E327B7A6E000CCE956 /* materials_kamisato_ayaka.json in Resources */,
+				D9D5C59727B7A6E000CCE956 /* materials_diona.json in Resources */,
+				D9D5C57F27B7A6E000CCE956 /* materials_raiden_shogun.json in Resources */,
+				D9D5C5BD27B7A6E000CCE956 /* stats_kujou_sara.json in Resources */,
+				D9D5C57B27B7A6E000CCE956 /* stats_bennett.json in Resources */,
+				D9D5C59B27B7A6E000CCE956 /* materials_albedo.json in Resources */,
+				D9D5C60127B7A6E000CCE956 /* stats_shenhe.json in Resources */,
+				D9D5C60927B7A6E000CCE956 /* stats_xiao.json in Resources */,
+				D9D5C60527B7A6E000CCE956 /* stats_sucrose.json in Resources */,
+				D9D5C5D927B7A6E000CCE956 /* materials_jean.json in Resources */,
+				D9D5C59927B7A6E000CCE956 /* materials_diluc.json in Resources */,
+				D9D5C5C127B7A6E000CCE956 /* stats_yanfei.json in Resources */,
+				D9D5C5B327B7A6E000CCE956 /* stats_xiangling.json in Resources */,
+				D9D5C5C927B7A6E000CCE956 /* stats_ningguang.json in Resources */,
+				D9D5C5FB27B7A6E000CCE956 /* materials_yoimiya.json in Resources */,
+				D9D5C57527B7A6E000CCE956 /* materials_mona.json in Resources */,
+				D9D5C58327B7A6E000CCE956 /* materials_lisa.json in Resources */,
+				D9D5C60D27B7A6E000CCE956 /* materials_yanfei.json in Resources */,
+				D9D5C58727B7A6E000CCE956 /* materials_yun_jin.json in Resources */,
+				D9D5C5EF27B7A6E000CCE956 /* stats_razor.json in Resources */,
+				D9D5C59F27B7A6E000CCE956 /* materials_traveler.json in Resources */,
+				D9D5C5E727B7A6E000CCE956 /* urls.json in Resources */,
+				D9D5C57927B7A6E000CCE956 /* materials_beidou.json in Resources */,
+				D9D5C5FF27B7A6E000CCE956 /* materials_kujou_sara.json in Resources */,
+				D9D5C5B727B7A6E000CCE956 /* materials_xingqiu.json in Resources */,
+				D9D5C61527B7A6E000CCE956 /* stats_ganyu.json in Resources */,
+				D9D5C5CD27B7A6E000CCE956 /* materials_thoma.json in Resources */,
+				D9D5C5A327B7A6E000CCE956 /* stats_tartaglia.json in Resources */,
+				D9D5C5AF27B7A6E000CCE956 /* stats_diluc.json in Resources */,
+				D9D5C5B927B7A6E000CCE956 /* materials_xinyan.json in Resources */,
+				D9D5C5F927B7A6E000CCE956 /* materials_ningguang.json in Resources */,
+				D9D5C61927B7A6E000CCE956 /* materials_zhongli.json in Resources */,
+				D9D5C60B27B7A6E000CCE956 /* stats_zhongli.json in Resources */,
+				D9D5C5E927B7A6E000CCE956 /* materials_noelle.json in Resources */,
+				D9D5C58527B7A6E000CCE956 /* materials_barbara.json in Resources */,
+				D9D5C5DF27B7A6E000CCE956 /* stats_kamisato_ayaka.json in Resources */,
+				D9D5C56B27B7A6E000CCE956 /* materials_rosaria.json in Resources */,
+				D9D5C61B27B7A6E000CCE956 /* stats_klee.json in Resources */,
+				D9D5C5B127B7A6E000CCE956 /* stats_rosaria.json in Resources */,
+				D9D5C56727B7A6E000CCE956 /* stats_lisa.json in Resources */,
+				D9D5C56F27B7A6E000CCE956 /* materials_gorou.json in Resources */,
+				D9D5C5BF27B7A6E000CCE956 /* stats_raiden_shogun.json in Resources */,
 				D9275FEA27AEE15500B3F854 /* Assets.xcassets in Resources */,
-				D923626627B65CEC00718766 /* materials_kujou_sara.json in Resources */,
-				D923628827B65CEC00718766 /* materials_xiao.json in Resources */,
-				D923631227B65CEC00718766 /* stats_yoimiya.json in Resources */,
-				D923629627B65CEC00718766 /* materials_venti.json in Resources */,
-				D923631027B65CEC00718766 /* stats_xinyan.json in Resources */,
-				D923630227B65CEC00718766 /* materials_arataki_itto.json in Resources */,
-				D92362EE27B65CEC00718766 /* stats_traveler.json in Resources */,
-				D923626827B65CEC00718766 /* stats_ganyu.json in Resources */,
-				D923629027B65CEC00718766 /* materials_lisa.json in Resources */,
-				D923629C27B65CEC00718766 /* stats_hu_tao.json in Resources */,
-				D92362DA27B65CEC00718766 /* stats_amber.json in Resources */,
-				D92362B427B65CEC00718766 /* stats_beidou.json in Resources */,
-				D923627A27B65CEC00718766 /* stats_yun_jin.json in Resources */,
-				D92362F427B65CEC00718766 /* materials_hu_tao.json in Resources */,
-				D923629427B65CEC00718766 /* stats_keqing.json in Resources */,
-				D923627E27B65CEC00718766 /* bio.json in Resources */,
-				D923631827B65CEC00718766 /* stats_raiden_shogun.json in Resources */,
-				D92362E627B65CEC00718766 /* materials_sayu.json in Resources */,
-				D92362A027B65CEC00718766 /* materials_fischl.json in Resources */,
-				D92362FA27B65CEC00718766 /* stats_albedo.json in Resources */,
-				D92362EA27B65CEC00718766 /* materials_raiden_shogun.json in Resources */,
-				D923626E27B65CEC00718766 /* stats_tartaglia.json in Resources */,
-				D923627027B65CEC00718766 /* stats_xiao.json in Resources */,
-				D92362E427B65CEC00718766 /* stats_kamisato_ayaka.json in Resources */,
-				D923627C27B65CEC00718766 /* stats_razor.json in Resources */,
-				D923628627B65CEC00718766 /* materials_traveler.json in Resources */,
-				D923630E27B65CEC00718766 /* stats_gorou.json in Resources */,
-				D92362D827B65CEC00718766 /* stats_kaedehara_kazuha.json in Resources */,
-				D92362FE27B65CEC00718766 /* materials_kamisato_ayaka.json in Resources */,
-				D92362D027B65CEC00718766 /* materials_diona.json in Resources */,
-				D92362CA27B65CEC00718766 /* stats_yanfei.json in Resources */,
-				D923630C27B65CEC00718766 /* stats_lisa.json in Resources */,
-				D92362BA27B65CEC00718766 /* materials_gorou.json in Resources */,
-				D92362C627B65CEC00718766 /* materials_jean.json in Resources */,
-				D92362DC27B65CEC00718766 /* stats_diona.json in Resources */,
-				D923626427B65CEC00718766 /* stats_jean.json in Resources */,
-				D923631C27B65CEC00718766 /* materials_sangonomiya_kokomi.json in Resources */,
-				D923627227B65CEC00718766 /* stats_barbara.json in Resources */,
-				D923631A27B65CEC00718766 /* materials_razor.json in Resources */,
-				D923627627B65CEC00718766 /* stats_shenhe.json in Resources */,
-				D923628C27B65CEC00718766 /* materials_shenhe.json in Resources */,
+				D9D5C56927B7A6E000CCE956 /* stats_sangonomiya_kokomi.json in Resources */,
+				D9D5C5E127B7A6E000CCE956 /* stats_keqing.json in Resources */,
+				D9D5C57127B7A6E000CCE956 /* materials_fischl.json in Resources */,
+				D9D5C61127B7A6E000CCE956 /* materials_hu_tao.json in Resources */,
+				D9D5C5D127B7A6E000CCE956 /* stats_barbara.json in Resources */,
+				D9D5C5A927B7A6E000CCE956 /* materials_xiao.json in Resources */,
+				D9D5C5C727B7A6E000CCE956 /* materials_arataki_itto.json in Resources */,
+				D9D5C5E527B7A6E000CCE956 /* stats_hu_tao.json in Resources */,
+				D9D5C59327B7A6E000CCE956 /* stats_amber.json in Resources */,
+				D9D5C5D727B7A6E000CCE956 /* stats_sayu.json in Resources */,
+				D9D5C5FD27B7A6E000CCE956 /* stats_eula.json in Resources */,
+				D9D5C5DB27B7A6E000CCE956 /* materials_xiangling.json in Resources */,
+				D9D5C5F527B7A6E000CCE956 /* materials_razor.json in Resources */,
+				D9D5C5BB27B7A6E000CCE956 /* stats_aloy.json in Resources */,
+				D9D5C5B527B7A6E000CCE956 /* materials_keqing.json in Resources */,
+				D9D5C5EB27B7A6E000CCE956 /* stats_albedo.json in Resources */,
+				D9D5C60F27B7A6E000CCE956 /* stats_yun_jin.json in Resources */,
+				D9D5C61327B7A6E000CCE956 /* stats_fischl.json in Resources */,
+				D9D5C57727B7A6E000CCE956 /* materials_aloy.json in Resources */,
+				D9D5C56327B7A6E000CCE956 /* materials_sucrose.json in Resources */,
+				D9D5C56127B7A6E000CCE956 /* stats_xingqiu.json in Resources */,
+				D9D5C59527B7A6E000CCE956 /* stats_qiqi.json in Resources */,
+				D9D5C58927B7A6E000CCE956 /* materials_shenhe.json in Resources */,
+				D9D5C61727B7A6E000CCE956 /* stats_noelle.json in Resources */,
+				D9D5C5ED27B7A6E000CCE956 /* stats_diona.json in Resources */,
+				D9D5C5C527B7A6E000CCE956 /* materials_sayu.json in Resources */,
+				D9D5C5CF27B7A6E000CCE956 /* materials_bennett.json in Resources */,
+				D9D5C5F127B7A6E000CCE956 /* stats_yoimiya.json in Resources */,
+				D9D5C5D527B7A6E000CCE956 /* stats_arataki_itto.json in Resources */,
+				D9D5C58F27B7A6E000CCE956 /* materials_chongyun.json in Resources */,
+				D9D5C5D327B7A6E000CCE956 /* stats_kaeya.json in Resources */,
+				D9D5C5F727B7A6E000CCE956 /* stats_mona.json in Resources */,
+				D9D5C60727B7A6E000CCE956 /* materials_klee.json in Resources */,
+				D9D5C5DD27B7A6E000CCE956 /* stats_beidou.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

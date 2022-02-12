@@ -1,0 +1,128 @@
+[
+    {
+        "ascension_phase": "0_l",
+        "level": "1/20",
+        "base_hp": "1211",
+        "base_atk": "8",
+        "base_def": "68",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "0_u",
+        "level": "20/20",
+        "base_hp": "3141",
+        "base_atk": "21",
+        "base_def": "177",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_l",
+        "level": "20/40",
+        "base_hp": "4179",
+        "base_atk": "29",
+        "base_def": "235",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_u",
+        "level": "40/40",
+        "base_hp": "6253",
+        "base_atk": "43",
+        "base_def": "352",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "2_l",
+        "level": "40/50",
+        "base_hp": "6990",
+        "base_atk": "48",
+        "base_def": "394",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "9.6%"
+    },
+    {
+        "ascension_phase": "2_u",
+        "level": "50/50",
+        "base_hp": "8042",
+        "base_atk": "55",
+        "base_def": "453",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "9.6%"
+    },
+    {
+        "ascension_phase": "3_l",
+        "level": "50/60",
+        "base_hp": "9026",
+        "base_atk": "62",
+        "base_def": "508",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "19.2%"
+    },
+    {
+        "ascension_phase": "3_u",
+        "level": "60/60",
+        "base_hp": "10089",
+        "base_atk": "69",
+        "base_def": "568",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "19.2%"
+    },
+    {
+        "ascension_phase": "4_l",
+        "level": "60/70",
+        "base_hp": "10826",
+        "base_atk": "74",
+        "base_def": "610",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "19.2%"
+    },
+    {
+        "ascension_phase": "4_u",
+        "level": "70/70",
+        "base_hp": "11899",
+        "base_atk": "81",
+        "base_def": "670",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "19.2%"
+    },
+    {
+        "ascension_phase": "5_l",
+        "level": "70/80",
+        "base_hp": "12637",
+        "base_atk": "86",
+        "base_def": "712",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "28.8%"
+    },
+    {
+        "ascension_phase": "5_u",
+        "level": "80/80",
+        "base_hp": "13721",
+        "base_atk": "94",
+        "base_def": "773",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "28.8%"
+    },
+    {
+        "ascension_phase": "6_l",
+        "level": "80/90",
+        "base_hp": "14459",
+        "base_atk": "99",
+        "base_def": "815",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "38.4%"
+    },
+    {
+        "ascension_phase": "6_u",
+        "level": "90/90",
+        "base_hp": "15552",
+        "base_atk": "106",
+        "base_def": "876",
+        "spetial_stat_name": "CRIT_DMG",
+        "spetial_stat_bonus": "38.4%"
+    }
+]

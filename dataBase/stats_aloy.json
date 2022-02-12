@@ -1,0 +1,128 @@
+[
+    {
+        "ascension_phase": "0_l",
+        "level": "1/20",
+        "base_hp": "848",
+        "base_atk": "18",
+        "base_def": "53",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "0_u",
+        "level": "20/20",
+        "base_hp": "2201",
+        "base_atk": "47",
+        "base_def": "137",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_l",
+        "level": "20/40",
+        "base_hp": "2928",
+        "base_atk": "63",
+        "base_def": "182",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_u",
+        "level": "40/40",
+        "base_hp": "4382",
+        "base_atk": "94",
+        "base_def": "272",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "2_l",
+        "level": "40/50",
+        "base_hp": "4899",
+        "base_atk": "105",
+        "base_def": "304",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "7.2%"
+    },
+    {
+        "ascension_phase": "2_u",
+        "level": "50/50",
+        "base_hp": "5636",
+        "base_atk": "121",
+        "base_def": "350",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "7.2%"
+    },
+    {
+        "ascension_phase": "3_l",
+        "level": "50/60",
+        "base_hp": "6325",
+        "base_atk": "136",
+        "base_def": "393",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "3_u",
+        "level": "60/60",
+        "base_hp": "7070",
+        "base_atk": "152",
+        "base_def": "439",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "4_l",
+        "level": "60/70",
+        "base_hp": "7587",
+        "base_atk": "163",
+        "base_def": "471",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "4_u",
+        "level": "70/70",
+        "base_hp": "8339",
+        "base_atk": "179",
+        "base_def": "517",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "5_l",
+        "level": "70/80",
+        "base_hp": "8856",
+        "base_atk": "190",
+        "base_def": "550",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "21.6%"
+    },
+    {
+        "ascension_phase": "5_u",
+        "level": "80/80",
+        "base_hp": "9616",
+        "base_atk": "206",
+        "base_def": "597",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "21.6%"
+    },
+    {
+        "ascension_phase": "6_l",
+        "level": "80/90",
+        "base_hp": "10133",
+        "base_atk": "217",
+        "base_def": "629",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "28.8%"
+    },
+    {
+        "ascension_phase": "6_u",
+        "level": "90/90",
+        "base_hp": "10899",
+        "base_atk": "234",
+        "base_def": "676",
+        "spetial_stat_name": "Cryo_DMG_Bonus",
+        "spetial_stat_bonus": "28.8%"
+    }
+]

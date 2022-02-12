@@ -1,0 +1,128 @@
+[
+    {
+        "ascension_phase": "0_l",
+        "level": "1/20",
+        "base_hp": "1039",
+        "base_atk": "16",
+        "base_def": "65",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "0_u",
+        "level": "20/20",
+        "base_hp": "2670",
+        "base_atk": "41",
+        "base_def": "166",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_l",
+        "level": "20/40",
+        "base_hp": "3447",
+        "base_atk": "53",
+        "base_def": "214",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_u",
+        "level": "40/40",
+        "base_hp": "5163",
+        "base_atk": "80",
+        "base_def": "321",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "2_l",
+        "level": "40/50",
+        "base_hp": "5715",
+        "base_atk": "88",
+        "base_def": "356",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "6.7%"
+    },
+    {
+        "ascension_phase": "2_u",
+        "level": "50/50",
+        "base_hp": "6573",
+        "base_atk": "101",
+        "base_def": "409",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "6.7%"
+    },
+    {
+        "ascension_phase": "3_l",
+        "level": "50/60",
+        "base_hp": "7309",
+        "base_atk": "113",
+        "base_def": "455",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "13.3%"
+    },
+    {
+        "ascension_phase": "3_u",
+        "level": "60/60",
+        "base_hp": "8168",
+        "base_atk": "126",
+        "base_def": "508",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "13.3%"
+    },
+    {
+        "ascension_phase": "4_l",
+        "level": "60/70",
+        "base_hp": "8719",
+        "base_atk": "134",
+        "base_def": "542",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "13.3%"
+    },
+    {
+        "ascension_phase": "4_u",
+        "level": "70/70",
+        "base_hp": "9577",
+        "base_atk": "148",
+        "base_def": "596",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "13.3%"
+    },
+    {
+        "ascension_phase": "5_l",
+        "level": "70/80",
+        "base_hp": "10129",
+        "base_atk": "156",
+        "base_def": "630",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "20.0%"
+    },
+    {
+        "ascension_phase": "5_u",
+        "level": "80/80",
+        "base_hp": "10987",
+        "base_atk": "169",
+        "base_def": "684",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "20.0%"
+    },
+    {
+        "ascension_phase": "6_l",
+        "level": "80/90",
+        "base_hp": "11539",
+        "base_atk": "178",
+        "base_def": "718",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "26.7%"
+    },
+    {
+        "ascension_phase": "6_u",
+        "level": "90/90",
+        "base_hp": "12397",
+        "base_atk": "191",
+        "base_def": "771",
+        "spetial_stat_name": "Energy_Recharge",
+        "spetial_stat_bonus": "26.7%"
+    }
+]

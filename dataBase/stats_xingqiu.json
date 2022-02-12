@@ -1,0 +1,128 @@
+[
+    {
+        "ascension_phase": "0_l",
+        "level": "1/20",
+        "base_hp": "857",
+        "base_atk": "17",
+        "base_def": "64",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "0_u",
+        "level": "20/20",
+        "base_hp": "2202",
+        "base_atk": "43",
+        "base_def": "163",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_l",
+        "level": "20/40",
+        "base_hp": "2842",
+        "base_atk": "56",
+        "base_def": "211",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_u",
+        "level": "40/40",
+        "base_hp": "4257",
+        "base_atk": "84",
+        "base_def": "316",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "2_l",
+        "level": "40/50",
+        "base_hp": "4712",
+        "base_atk": "93",
+        "base_def": "349",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "6.0%"
+    },
+    {
+        "ascension_phase": "2_u",
+        "level": "50/50",
+        "base_hp": "5420",
+        "base_atk": "107",
+        "base_def": "402",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "6.0%"
+    },
+    {
+        "ascension_phase": "3_l",
+        "level": "50/60",
+        "base_hp": "6027",
+        "base_atk": "119",
+        "base_def": "447",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "12.0%"
+    },
+    {
+        "ascension_phase": "3_u",
+        "level": "60/60",
+        "base_hp": "6735",
+        "base_atk": "133",
+        "base_def": "499",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "12.0%"
+    },
+    {
+        "ascension_phase": "4_l",
+        "level": "60/70",
+        "base_hp": "7190",
+        "base_atk": "142",
+        "base_def": "533",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "12.0%"
+    },
+    {
+        "ascension_phase": "4_u",
+        "level": "70/70",
+        "base_hp": "7897",
+        "base_atk": "156",
+        "base_def": "585",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "12.0%"
+    },
+    {
+        "ascension_phase": "5_l",
+        "level": "70/80",
+        "base_hp": "8352",
+        "base_atk": "165",
+        "base_def": "619",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "18.0%"
+    },
+    {
+        "ascension_phase": "5_u",
+        "level": "80/80",
+        "base_hp": "9060",
+        "base_atk": "179",
+        "base_def": "671",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "18.0%"
+    },
+    {
+        "ascension_phase": "6_l",
+        "level": "80/90",
+        "base_hp": "9515",
+        "base_atk": "188",
+        "base_def": "705",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "24.0%"
+    },
+    {
+        "ascension_phase": "6_u",
+        "level": "90/90",
+        "base_hp": "10223",
+        "base_atk": "202",
+        "base_def": "758",
+        "spetial_stat_name": "ATK",
+        "spetial_stat_bonus": "24.0%"
+    }
+]

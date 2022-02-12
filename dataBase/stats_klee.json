@@ -1,0 +1,128 @@
+[
+    {
+        "ascension_phase": "0_l",
+        "level": "1/20",
+        "base_hp": "801",
+        "base_atk": "24",
+        "base_def": "48",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "0_u",
+        "level": "20/20",
+        "base_hp": "2077",
+        "base_atk": "63",
+        "base_def": "124",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_l",
+        "level": "20/40",
+        "base_hp": "2764",
+        "base_atk": "84",
+        "base_def": "165",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "1_u",
+        "level": "40/40",
+        "base_hp": "4136",
+        "base_atk": "125",
+        "base_def": "247",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "\u2014"
+    },
+    {
+        "ascension_phase": "2_l",
+        "level": "40/50",
+        "base_hp": "4623",
+        "base_atk": "140",
+        "base_def": "276",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "7.2%"
+    },
+    {
+        "ascension_phase": "2_u",
+        "level": "50/50",
+        "base_hp": "5319",
+        "base_atk": "161",
+        "base_def": "318",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "7.2%"
+    },
+    {
+        "ascension_phase": "3_l",
+        "level": "50/60",
+        "base_hp": "5970",
+        "base_atk": "180",
+        "base_def": "357",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "3_u",
+        "level": "60/60",
+        "base_hp": "6673",
+        "base_atk": "202",
+        "base_def": "399",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "4_l",
+        "level": "60/70",
+        "base_hp": "7161",
+        "base_atk": "216",
+        "base_def": "428",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "4_u",
+        "level": "70/70",
+        "base_hp": "7870",
+        "base_atk": "238",
+        "base_def": "470",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "14.4%"
+    },
+    {
+        "ascension_phase": "5_l",
+        "level": "70/80",
+        "base_hp": "8358",
+        "base_atk": "253",
+        "base_def": "500",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "21.6%"
+    },
+    {
+        "ascension_phase": "5_u",
+        "level": "80/80",
+        "base_hp": "9076",
+        "base_atk": "274",
+        "base_def": "542",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "21.6%"
+    },
+    {
+        "ascension_phase": "6_l",
+        "level": "80/90",
+        "base_hp": "9563",
+        "base_atk": "289",
+        "base_def": "572",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "28.8%"
+    },
+    {
+        "ascension_phase": "6_u",
+        "level": "90/90",
+        "base_hp": "10287",
+        "base_atk": "311",
+        "base_def": "615",
+        "spetial_stat_name": "Pyro_DMG_Bonus",
+        "spetial_stat_bonus": "28.8%"
+    }
+]
