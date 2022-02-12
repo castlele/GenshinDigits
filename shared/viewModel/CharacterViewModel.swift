@@ -49,7 +49,7 @@ final class CharacterViewModel: ObservableObject {
         return nil
     }
     
-    private func loadAscensionMaterials(_ name: String) {
+    func loadAscensionMaterials(byName name: String) {
         
     }
     

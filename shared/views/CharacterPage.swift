@@ -7,15 +7,9 @@
 
 import SwiftUI
 
+// MARK: - Ascending Character Stats View
 struct AscendingCharacterStatsView: View {
-    private let columns = [
-        GridItem(.flexible(minimum: 20, maximum: 50)),
-        GridItem(.flexible(minimum: 20, maximum: 50)),
-        GridItem(.flexible(minimum: 20, maximum: 50)),
-        GridItem(.flexible(minimum: 20, maximum: 50)),
-        GridItem(.flexible(minimum: 20, maximum: 50)),
-        GridItem(.flexible(minimum: 20, maximum: 50))
-    ]
+    private let columns = Array(repeating: GridItem(.flexible(minimum: 20, maximum: 50)), count: 6)
     @EnvironmentObject var characterVM: CharacterViewModel
     
     private var spetilaStatName: String {
@@ -70,6 +64,7 @@ struct AscendingCharacterStatsView: View {
                     getStatByColumn(i, stat: lower)
                     getStatByColumn(i, stat: upper)
                 }
+                setAscendingCostRow(i)
             }
         }
     }
@@ -77,23 +72,22 @@ struct AscendingCharacterStatsView: View {
     private func getStatByColumn(_ col: Int, stat: Stat) -> some View {
         var row = String()
         switch col {
-            case 0:
-                row = stat.level
-            case 1:
-                row = stat.baseHP
-            case 2:
-                row = stat.baseATK
-            case 3:
-                row = stat.baseDEF
-            case 4:
-                row = stat.spetialStatBonus
-            default:
-                break
+            case 0: row = stat.level
+            case 1: row = stat.baseHP
+            case 2: row = stat.baseATK
+            case 3: row = stat.baseDEF
+            case 4: row = stat.spetialStatBonus
+            default: break
         }
         return Text(row)
     }
+    
+    private func setAscendingCostRow(_ phase: Int) -> some View {
+        Text("")
+    }
 }
 
+// MARK: - Character Page
 struct CharacterPage: View {
     @EnvironmentObject var characterVM: CharacterViewModel
     
