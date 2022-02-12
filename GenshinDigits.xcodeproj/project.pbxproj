@@ -425,7 +425,7 @@
 			);
 			name = dataBase;
 			path = ../dataBase;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 		D9B7B41227A565360015C2C1 /* json */ = {
 			isa = PBXGroup;
