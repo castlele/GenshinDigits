@@ -8,8 +8,9 @@
 import SwiftUI
 
 // MARK: - Ascending Character Stats View
-struct AscendingCharacterStatsView: View {
-    private let columns = Array(repeating: GridItem(.flexible(minimum: 20, maximum: 50)), count: 6)
+struct AscensingCharacterStatsView: View {
+    private typealias Phase = Int
+    private let columns = Array(repeating: GridItem(.flexible(minimum: 250/6, maximum: 250)), count: 6)
     @EnvironmentObject var characterVM: CharacterViewModel
     
     private var spetilaStatName: String {
@@ -17,6 +18,10 @@ struct AscendingCharacterStatsView: View {
             return first.wrappedSpetialStatName
         }
         return "–"
+    }
+    
+    private var ascensionMaterials: [Phase: AscensionMaterial] {
+        characterVM.loadAscensionMaterials(byName: characterVM.selectedCharacter?.name ?? "")
     }
     
     private var header: some View {
@@ -39,11 +44,16 @@ struct AscendingCharacterStatsView: View {
     var body: some View {
         if let _ = characterVM.currentStats {
             return AnyView(
-                LazyVGrid(columns: columns, spacing: 0) {
-                    header
-                    
+                VStack(spacing: 0) {
+                    LazyVGrid(columns: columns, spacing: 0) {
+                        header
+                    }
+                        
                     ForEach(Stat.minAscensionPhase..<Stat.maxAscensionPhase) { phase in
-                        statRow(phase: phase)
+                        LazyVGrid(columns: columns, spacing: 0) {
+                            statRow(phase: phase)
+                        }
+                        setAscensingCostRow(phase)
                     }
                 }
             )
@@ -64,7 +74,6 @@ struct AscendingCharacterStatsView: View {
                     getStatByColumn(i, stat: lower)
                     getStatByColumn(i, stat: upper)
                 }
-                setAscendingCostRow(i)
             }
         }
     }
@@ -82,8 +91,41 @@ struct AscendingCharacterStatsView: View {
         return Text(row)
     }
     
-    private func setAscendingCostRow(_ phase: Int) -> some View {
-        Text("")
+    private func setAscensingCostRow(_ phase: Int) -> some View {
+        VStack {
+            setAscensingHeader(phase)
+            setMaterialsImages(phase)
+        }
+    }
+    
+    private func setMaterialsImages(_ phase: Int) -> some View {
+        guard let material = ascensionMaterials[phase + 1] else {
+            fatalError("Where are my materials???")
+        }
+        return HStack {
+            materialsPreview(material)
+        }
+    }
+    
+    private func setAscensingHeader(_ phase: Int) -> some View {
+        let toPhase = phase + 1
+        return HStack {
+            Text("Ascending cost \(phase) -> \(toPhase)")
+            Spacer()
+        }
+    }
+    
+    private func materialsPreview(_ material: AscensionMaterial) -> some View {
+        ForEach(material.resources) { resource in
+            VStack {
+                Image(resource.imageName)
+                    .resizable()
+                    .scaledToFit()
+                Text(resource.amount)
+            }
+            .background(Color.white)
+            .clipShape(RoundedRectangle(cornerRadius: 10))
+        }
     }
 }
 
@@ -110,7 +152,7 @@ struct CharacterPage: View {
                     Text(character.constellation)
                     Text(character.region)
                     
-                    AscendingCharacterStatsView()
+                    AscensingCharacterStatsView()
                 } else {
                     Group {
                         Image(systemName: "person.fill")

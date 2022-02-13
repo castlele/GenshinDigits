@@ -32,6 +32,8 @@
 		D9B7FDA027AC2BFE003734E4 /* Image+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B7FD9E27AC2AC5003734E4 /* Image+Extension.swift */; };
 		D9B9589027ABA0CA00ACB250 /* Decoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B9588F27ABA0CA00ACB250 /* Decoder.swift */; };
 		D9B9589127ABA2D000ACB250 /* Decoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9B9588F27ABA0CA00ACB250 /* Decoder.swift */; };
+		D9CABF4B27B8DC350045AA4A /* AscensionMaterial.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CABF4A27B8DC350045AA4A /* AscensionMaterial.swift */; };
+		D9CABF4C27B8DC350045AA4A /* AscensionMaterial.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9CABF4A27B8DC350045AA4A /* AscensionMaterial.swift */; };
 		D9D5C56027B7A6E000CCE956 /* stats_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50227B7A6DD00CCE956 /* stats_xingqiu.json */; };
 		D9D5C56127B7A6E000CCE956 /* stats_xingqiu.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50227B7A6DD00CCE956 /* stats_xingqiu.json */; };
 		D9D5C56227B7A6E000CCE956 /* materials_sucrose.json in Resources */ = {isa = PBXBuildFile; fileRef = D9D5C50327B7A6DD00CCE956 /* materials_sucrose.json */; };
@@ -264,6 +266,7 @@
 		D9B7B45527A6BE940015C2C1 /* CharacterPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterPage.swift; sourceTree = "<group>"; };
 		D9B7FD9E27AC2AC5003734E4 /* Image+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Image+Extension.swift"; sourceTree = "<group>"; };
 		D9B9588F27ABA0CA00ACB250 /* Decoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decoder.swift; sourceTree = "<group>"; };
+		D9CABF4A27B8DC350045AA4A /* AscensionMaterial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AscensionMaterial.swift; sourceTree = "<group>"; };
 		D9D5C50227B7A6DD00CCE956 /* stats_xingqiu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = stats_xingqiu.json; sourceTree = "<group>"; };
 		D9D5C50327B7A6DD00CCE956 /* materials_sucrose.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sucrose.json; sourceTree = "<group>"; };
 		D9D5C50427B7A6DD00CCE956 /* materials_sangonomiya_kokomi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = materials_sangonomiya_kokomi.json; sourceTree = "<group>"; };
@@ -409,6 +412,7 @@
 			children = (
 				D92EB0CE27A82FB8004A7AFB /* Character.swift */,
 				D9275FEB27B02FE800B3F854 /* Stat.swift */,
+				D9CABF4A27B8DC350045AA4A /* AscensionMaterial.swift */,
 			);
 			path = model;
 			sourceTree = "<group>";
@@ -999,6 +1003,7 @@
 				D92EB0D327A83252004A7AFB /* CharacterViewModel.swift in Sources */,
 				D9B7B45427A6A1A10015C2C1 /* CharacterPreviewCard.swift in Sources */,
 				D9FCA5CA27AC61F500A60C9B /* SelectableByHover.swift in Sources */,
+				D9CABF4B27B8DC350045AA4A /* AscensionMaterial.swift in Sources */,
 				D9B7B45627A6BE940015C2C1 /* CharacterPage.swift in Sources */,
 				D9D5F55627A5542300834035 /* GenshinDigitsApp.swift in Sources */,
 			);
@@ -1018,6 +1023,7 @@
 				D92EB0D427A83252004A7AFB /* CharacterViewModel.swift in Sources */,
 				D9B7FDA027AC2BFE003734E4 /* Image+Extension.swift in Sources */,
 				D9B7B44527A59ACC0015C2C1 /* SidebarView.swift in Sources */,
+				D9CABF4C27B8DC350045AA4A /* AscensionMaterial.swift in Sources */,
 				D9FCA5CB27AC638400A60C9B /* SelectableByHover.swift in Sources */,
 				D92EB0D027A82FB8004A7AFB /* Character.swift in Sources */,
 				D9B7B45327A6A19C0015C2C1 /* CharacterPreviewCard.swift in Sources */,

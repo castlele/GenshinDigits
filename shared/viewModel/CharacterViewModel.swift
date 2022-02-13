@@ -49,8 +49,15 @@ final class CharacterViewModel: ObservableObject {
         return nil
     }
     
-    func loadAscensionMaterials(byName name: String) {
-        
+    func loadAscensionMaterials(byName name: String) -> [Int: AscensionMaterial] {
+        let fileName = "materials_\(name.lowercased().replacingOccurrences(of: " ", with: "_"))"
+        if let url = self.bundle.url(forResource: fileName, withExtension: "json") {
+            var result: [Int: AscensionMaterial] = [:]
+            let materials = getMaterials(fromURL: url)
+            materials.forEach { result[Int($0.level)!] = $0 }
+            return result
+        }
+        return [:]
     }
     
     private func getCharacters(fromURL url: URL) -> [Character] {
@@ -66,6 +73,14 @@ final class CharacterViewModel: ObservableObject {
             let jsonData = try getContentsOfFile(atPath: url)
             let stats: [Stat] = try decodeData(jsonData)
             return stats
+        }
+    }
+    
+    private func getMaterials(fromURL url: URL) -> [AscensionMaterial] {
+        checkDecodingForErrors {
+            let jsonData = try getContentsOfFile(atPath: url)
+            let materials: [AscensionMaterial] = try decodeData(jsonData)
+            return materials
         }
     }
     
