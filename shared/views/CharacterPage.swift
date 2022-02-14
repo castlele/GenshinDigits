@@ -123,6 +123,7 @@ struct AscensingCharacterStatsView: View {
                     .scaledToFit()
                 Text(resource.amount)
             }
+            .help(resource.name)
             .background(Color.white)
             .clipShape(RoundedRectangle(cornerRadius: 10))
         }
